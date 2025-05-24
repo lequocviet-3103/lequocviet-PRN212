@@ -1,0 +1,14 @@
+D:\PRN212\PRN212-SE1848\NestedLoop_Shape\bin\Debug\net8.0\NestedLoop_Shape.exe
+D:\PRN212\PRN212-SE1848\NestedLoop_Shape\bin\Debug\net8.0\NestedLoop_Shape.deps.json
+D:\PRN212\PRN212-SE1848\NestedLoop_Shape\bin\Debug\net8.0\NestedLoop_Shape.runtimeconfig.json
+D:\PRN212\PRN212-SE1848\NestedLoop_Shape\bin\Debug\net8.0\NestedLoop_Shape.dll
+D:\PRN212\PRN212-SE1848\NestedLoop_Shape\bin\Debug\net8.0\NestedLoop_Shape.pdb
+D:\PRN212\PRN212-SE1848\NestedLoop_Shape\obj\Debug\net8.0\NestedLoop_Shape.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\PRN212-SE1848\NestedLoop_Shape\obj\Debug\net8.0\NestedLoop_Shape.AssemblyInfoInputs.cache
+D:\PRN212\PRN212-SE1848\NestedLoop_Shape\obj\Debug\net8.0\NestedLoop_Shape.AssemblyInfo.cs
+D:\PRN212\PRN212-SE1848\NestedLoop_Shape\obj\Debug\net8.0\NestedLoop_Shape.csproj.CoreCompileInputs.cache
+D:\PRN212\PRN212-SE1848\NestedLoop_Shape\obj\Debug\net8.0\NestedLoop_Shape.dll
+D:\PRN212\PRN212-SE1848\NestedLoop_Shape\obj\Debug\net8.0\refint\NestedLoop_Shape.dll
+D:\PRN212\PRN212-SE1848\NestedLoop_Shape\obj\Debug\net8.0\NestedLoop_Shape.pdb
+D:\PRN212\PRN212-SE1848\NestedLoop_Shape\obj\Debug\net8.0\NestedLoop_Shape.genruntimeconfig.cache
+D:\PRN212\PRN212-SE1848\NestedLoop_Shape\obj\Debug\net8.0\ref\NestedLoop_Shape.dll

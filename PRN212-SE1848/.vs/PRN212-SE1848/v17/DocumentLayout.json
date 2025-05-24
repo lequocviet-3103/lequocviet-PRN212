@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN212\\PRN212-SE1848\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{599176C8-BCE4-4EEC-AD0B-A1890AF6CC67}|OOP1\\OOP1.csproj|d:\\prn212\\prn212-se1848\\oop1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599176C8-BCE4-4EEC-AD0B-A1890AF6CC67}|OOP1\\OOP1.csproj|solutionrelative:oop1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599176C8-BCE4-4EEC-AD0B-A1890AF6CC67}|OOP1\\OOP1.csproj|d:\\prn212\\prn212-se1848\\oop1\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599176C8-BCE4-4EEC-AD0B-A1890AF6CC67}|OOP1\\OOP1.csproj|solutionrelative:oop1\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599176C8-BCE4-4EEC-AD0B-A1890AF6CC67}|OOP1\\OOP1.csproj|d:\\prn212\\prn212-se1848\\oop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599176C8-BCE4-4EEC-AD0B-A1890AF6CC67}|OOP1\\OOP1.csproj|solutionrelative:oop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599176C8-BCE4-4EEC-AD0B-A1890AF6CC67}|OOP1\\OOP1.csproj|d:\\prn212\\prn212-se1848\\oop1\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599176C8-BCE4-4EEC-AD0B-A1890AF6CC67}|OOP1\\OOP1.csproj|solutionrelative:oop1\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\OOP1\\Employee.cs",
+              "RelativeDocumentMoniker": "OOP1\\Employee.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\OOP1\\Employee.cs",
+              "RelativeToolTip": "OOP1\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:51:44.37Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\OOP1\\Customer.cs",
+              "RelativeDocumentMoniker": "OOP1\\Customer.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\OOP1\\Customer.cs",
+              "RelativeToolTip": "OOP1\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:28:07.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\OOP1\\Category.cs",
+              "RelativeDocumentMoniker": "OOP1\\Category.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\OOP1\\Category.cs",
+              "RelativeToolTip": "OOP1\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:34:40.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\OOP1\\Program.cs",
+              "RelativeDocumentMoniker": "OOP1\\Program.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\OOP1\\Program.cs",
+              "RelativeToolTip": "OOP1\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:33:48.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
