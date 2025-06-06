@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using System.Text;
 
 Console.OutputEncoding = Encoding.UTF8;
@@ -9,3 +10,8 @@ Console.ForegroundColor = ConsoleColor.Yellow;
 Console.BackgroundColor = ConsoleColor.Green;
 Console.WriteLine("tôi hứa sẽ làm");
 Console.ReadLine();
+=======
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, chung toi la hoc sinh fpt");
+>>>>>>> 95d0f71d002f063933e607433f892f88e4273663
