@@ -1,0 +1,14 @@
+D:\PRN212\PRN212-SE1848\SecondProject\bin\Debug\net9.0\SecondProject.exe
+D:\PRN212\PRN212-SE1848\SecondProject\bin\Debug\net9.0\SecondProject.deps.json
+D:\PRN212\PRN212-SE1848\SecondProject\bin\Debug\net9.0\SecondProject.runtimeconfig.json
+D:\PRN212\PRN212-SE1848\SecondProject\bin\Debug\net9.0\SecondProject.dll
+D:\PRN212\PRN212-SE1848\SecondProject\bin\Debug\net9.0\SecondProject.pdb
+D:\PRN212\PRN212-SE1848\SecondProject\obj\Debug\net9.0\SecondProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\PRN212-SE1848\SecondProject\obj\Debug\net9.0\SecondProject.AssemblyInfoInputs.cache
+D:\PRN212\PRN212-SE1848\SecondProject\obj\Debug\net9.0\SecondProject.AssemblyInfo.cs
+D:\PRN212\PRN212-SE1848\SecondProject\obj\Debug\net9.0\SecondProject.csproj.CoreCompileInputs.cache
+D:\PRN212\PRN212-SE1848\SecondProject\obj\Debug\net9.0\SecondProject.dll
+D:\PRN212\PRN212-SE1848\SecondProject\obj\Debug\net9.0\refint\SecondProject.dll
+D:\PRN212\PRN212-SE1848\SecondProject\obj\Debug\net9.0\SecondProject.pdb
+D:\PRN212\PRN212-SE1848\SecondProject\obj\Debug\net9.0\SecondProject.genruntimeconfig.cache
+D:\PRN212\PRN212-SE1848\SecondProject\obj\Debug\net9.0\ref\SecondProject.dll

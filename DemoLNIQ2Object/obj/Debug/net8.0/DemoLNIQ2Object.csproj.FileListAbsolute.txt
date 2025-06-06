@@ -1,0 +1,15 @@
+D:\PRN212\PRN212-SE1848\DemoLNIQ2Object\bin\Debug\net8.0\DemoLNIQ2Object.exe
+D:\PRN212\PRN212-SE1848\DemoLNIQ2Object\bin\Debug\net8.0\DemoLNIQ2Object.deps.json
+D:\PRN212\PRN212-SE1848\DemoLNIQ2Object\bin\Debug\net8.0\DemoLNIQ2Object.runtimeconfig.json
+D:\PRN212\PRN212-SE1848\DemoLNIQ2Object\bin\Debug\net8.0\DemoLNIQ2Object.dll
+D:\PRN212\PRN212-SE1848\DemoLNIQ2Object\bin\Debug\net8.0\DemoLNIQ2Object.pdb
+D:\PRN212\PRN212-SE1848\DemoLNIQ2Object\obj\Debug\net8.0\DemoLNIQ2Object.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\PRN212-SE1848\DemoLNIQ2Object\obj\Debug\net8.0\DemoLNIQ2Object.AssemblyInfoInputs.cache
+D:\PRN212\PRN212-SE1848\DemoLNIQ2Object\obj\Debug\net8.0\DemoLNIQ2Object.AssemblyInfo.cs
+D:\PRN212\PRN212-SE1848\DemoLNIQ2Object\obj\Debug\net8.0\DemoLNIQ2Object.csproj.CoreCompileInputs.cache
+D:\PRN212\PRN212-SE1848\DemoLNIQ2Object\obj\Debug\net8.0\DemoLNIQ2Object.sourcelink.json
+D:\PRN212\PRN212-SE1848\DemoLNIQ2Object\obj\Debug\net8.0\DemoLNIQ2Object.dll
+D:\PRN212\PRN212-SE1848\DemoLNIQ2Object\obj\Debug\net8.0\refint\DemoLNIQ2Object.dll
+D:\PRN212\PRN212-SE1848\DemoLNIQ2Object\obj\Debug\net8.0\DemoLNIQ2Object.pdb
+D:\PRN212\PRN212-SE1848\DemoLNIQ2Object\obj\Debug\net8.0\DemoLNIQ2Object.genruntimeconfig.cache
+D:\PRN212\PRN212-SE1848\DemoLNIQ2Object\obj\Debug\net8.0\ref\DemoLNIQ2Object.dll
