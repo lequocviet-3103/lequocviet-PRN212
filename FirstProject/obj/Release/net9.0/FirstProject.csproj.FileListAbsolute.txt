@@ -1,0 +1,14 @@
+D:\PRN212\PRN212-SE1848\FirstProject\bin\Release\net9.0\FirstProject.exe
+D:\PRN212\PRN212-SE1848\FirstProject\bin\Release\net9.0\FirstProject.deps.json
+D:\PRN212\PRN212-SE1848\FirstProject\bin\Release\net9.0\FirstProject.runtimeconfig.json
+D:\PRN212\PRN212-SE1848\FirstProject\bin\Release\net9.0\FirstProject.dll
+D:\PRN212\PRN212-SE1848\FirstProject\bin\Release\net9.0\FirstProject.pdb
+D:\PRN212\PRN212-SE1848\FirstProject\obj\Release\net9.0\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\PRN212-SE1848\FirstProject\obj\Release\net9.0\FirstProject.AssemblyInfoInputs.cache
+D:\PRN212\PRN212-SE1848\FirstProject\obj\Release\net9.0\FirstProject.AssemblyInfo.cs
+D:\PRN212\PRN212-SE1848\FirstProject\obj\Release\net9.0\FirstProject.csproj.CoreCompileInputs.cache
+D:\PRN212\PRN212-SE1848\FirstProject\obj\Release\net9.0\FirstProject.dll
+D:\PRN212\PRN212-SE1848\FirstProject\obj\Release\net9.0\refint\FirstProject.dll
+D:\PRN212\PRN212-SE1848\FirstProject\obj\Release\net9.0\FirstProject.pdb
+D:\PRN212\PRN212-SE1848\FirstProject\obj\Release\net9.0\FirstProject.genruntimeconfig.cache
+D:\PRN212\PRN212-SE1848\FirstProject\obj\Release\net9.0\ref\FirstProject.dll
