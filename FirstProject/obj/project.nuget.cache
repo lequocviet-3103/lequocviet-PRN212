@@ -1,14 +1,18 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "rNn02z1SyPk=",
-  "success": true,
-  "projectFilePath": "D:\\PRN212\\PRN212-SE1848\\FirstProject\\FirstProject.csproj",
-=======
-  "dgSpecHash": "SjeAuGrEDA4=",
+  "dgSpecHash": "NblQ3UBTe9M=",
   "success": true,
   "projectFilePath": "D:\\PRN212\\FirstProject\\FirstProject.csproj",
->>>>>>> 95d0f71d002f063933e607433f892f88e4273663
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file D:\\PRN212\\FirstProject\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "D:\\PRN212\\FirstProject\\FirstProject.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\PRN212\\FirstProject\\FirstProject.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "D:\\PRN212\\PRN212-SE1848\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B016459-ADEB-4DFD-8210-79AC497CA2EE}|Lucy_SalesDataManagement\\Lucy_SalesDataManagement.csproj|d:\\prn212\\prn212-se1848\\lucy_salesdatamanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B016459-ADEB-4DFD-8210-79AC497CA2EE}|Lucy_SalesDataManagement\\Lucy_SalesDataManagement.csproj|solutionrelative:lucy_salesdatamanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CCDFB2A-4F6D-42A5-8B42-7EF30279CC9F}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|d:\\prn212\\prn212-se1848\\buttoncontrol_tonghop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0CCDFB2A-4F6D-42A5-8B42-7EF30279CC9F}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|solutionrelative:buttoncontrol_tonghop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77782808-150B-4121-ADC7-94D5459B70C7}|DemoLINQ2SQL\\DemoLINQ2SQL.csproj|d:\\prn212\\prn212-se1848\\demolinq2sql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77782808-150B-4121-ADC7-94D5459B70C7}|DemoLINQ2SQL\\DemoLINQ2SQL.csproj|solutionrelative:demolinq2sql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CCDFB2A-4F6D-42A5-8B42-7EF30279CC9F}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|d:\\prn212\\prn212-se1848\\buttoncontrol_tonghop\\image\\thoat.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{0CCDFB2A-4F6D-42A5-8B42-7EF30279CC9F}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|solutionrelative:buttoncontrol_tonghop\\image\\thoat.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B016459-ADEB-4DFD-8210-79AC497CA2EE}|Lucy_SalesDataManagement\\Lucy_SalesDataManagement.csproj|d:\\prn212\\prn212-se1848\\lucy_salesdatamanagement\\lucy_salesdata.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
-      "RelativeMoniker": "D:0:0:{9B016459-ADEB-4DFD-8210-79AC497CA2EE}|Lucy_SalesDataManagement\\Lucy_SalesDataManagement.csproj|solutionrelative:lucy_salesdatamanagement\\lucy_salesdata.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+      "AbsoluteMoniker": "D:0:0:{0CCDFB2A-4F6D-42A5-8B42-7EF30279CC9F}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|d:\\prn212\\prn212-se1848\\buttoncontrol_tonghop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCDFB2A-4F6D-42A5-8B42-7EF30279CC9F}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|solutionrelative:buttoncontrol_tonghop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77782808-150B-4121-ADC7-94D5459B70C7}|DemoLINQ2SQL\\DemoLINQ2SQL.csproj|d:\\prn212\\prn212-se1848\\demolinq2sql\\demolinq2sql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{77782808-150B-4121-ADC7-94D5459B70C7}|DemoLINQ2SQL\\DemoLINQ2SQL.csproj|solutionrelative:demolinq2sql\\demolinq2sql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4743A698-A7E5-446F-9773-8E7998EEDB5B}|FirstProject\\FirstProject.csproj|d:\\prn212\\prn212-se1848\\firstproject\\firstproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4743A698-A7E5-446F-9773-8E7998EEDB5B}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\firstproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{0CCDFB2A-4F6D-42A5-8B42-7EF30279CC9F}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|d:\\prn212\\prn212-se1848\\buttoncontrol_tonghop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0CCDFB2A-4F6D-42A5-8B42-7EF30279CC9F}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|solutionrelative:buttoncontrol_tonghop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,70 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Lucy_SalesData.dbml",
-              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\Lucy_SalesDataManagement\\Lucy_SalesData.dbml",
-              "RelativeDocumentMoniker": "Lucy_SalesDataManagement\\Lucy_SalesData.dbml",
-              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\Lucy_SalesDataManagement\\Lucy_SalesData.dbml",
-              "RelativeToolTip": "Lucy_SalesDataManagement\\Lucy_SalesData.dbml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
-              "WhenOpened": "2025-06-06T07:11:25.316Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\Lucy_SalesDataManagement\\Program.cs",
-              "RelativeDocumentMoniker": "Lucy_SalesDataManagement\\Program.cs",
-              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\Lucy_SalesDataManagement\\Program.cs*",
-              "RelativeToolTip": "Lucy_SalesDataManagement\\Program.cs*",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAIwC8AAABlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T07:09:54.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DemoLINQ2SQL",
-              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\DemoLINQ2SQL\\DemoLINQ2SQL.csproj",
-              "RelativeDocumentMoniker": "DemoLINQ2SQL\\DemoLINQ2SQL.csproj",
-              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\DemoLINQ2SQL\\DemoLINQ2SQL.csproj",
-              "RelativeToolTip": "DemoLINQ2SQL\\DemoLINQ2SQL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-06T06:22:23.46Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FirstProject",
-              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\FirstProject\\FirstProject.csproj",
-              "RelativeDocumentMoniker": "FirstProject\\FirstProject.csproj",
-              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\FirstProject\\FirstProject.csproj",
-              "RelativeToolTip": "FirstProject\\FirstProject.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-06T06:08:11.193Z",
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\ButtonControl_TongHop\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ButtonControl_TongHop\\MainWindow.xaml",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\ButtonControl_TongHop\\MainWindow.xaml",
+              "RelativeToolTip": "ButtonControl_TongHop\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-15T08:16:11.076Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\DemoLINQ2SQL\\Program.cs",
-              "RelativeDocumentMoniker": "DemoLINQ2SQL\\Program.cs",
-              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\DemoLINQ2SQL\\Program.cs",
-              "RelativeToolTip": "DemoLINQ2SQL\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Title": "thoat.png - PNG [16x16, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\ButtonControl_TongHop\\Image\\thoat.png",
+              "RelativeDocumentMoniker": "ButtonControl_TongHop\\Image\\thoat.png",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\ButtonControl_TongHop\\Image\\thoat.png - PNG [16x16, 32 bit, PNG]",
+              "RelativeToolTip": "ButtonControl_TongHop\\Image\\thoat.png - PNG [16x16, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-15T08:46:19.48Z",
+              "EditorCaption": " - PNG [16x16, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\ButtonControl_TongHop\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ButtonControl_TongHop\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\ButtonControl_TongHop\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ButtonControl_TongHop\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAewBoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T05:58:26.097Z",
+              "WhenOpened": "2025-06-15T08:29:25.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\ButtonControl_TongHop\\App.xaml",
+              "RelativeDocumentMoniker": "ButtonControl_TongHop\\App.xaml",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\ButtonControl_TongHop\\App.xaml",
+              "RelativeToolTip": "ButtonControl_TongHop\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-15T08:16:07.903Z",
               "EditorCaption": ""
             }
           ]
