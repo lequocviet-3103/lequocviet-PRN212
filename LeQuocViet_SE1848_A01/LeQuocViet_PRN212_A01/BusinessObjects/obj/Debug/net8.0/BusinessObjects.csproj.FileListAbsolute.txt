@@ -1,0 +1,12 @@
+D:\PRN212\LeQuocViet_SE1848_A01\LeQuocViet_PRN212_A01\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+D:\PRN212\LeQuocViet_SE1848_A01\LeQuocViet_PRN212_A01\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\PRN212\LeQuocViet_SE1848_A01\LeQuocViet_PRN212_A01\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\PRN212\LeQuocViet_SE1848_A01\LeQuocViet_PRN212_A01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\LeQuocViet_SE1848_A01\LeQuocViet_PRN212_A01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\PRN212\LeQuocViet_SE1848_A01\LeQuocViet_PRN212_A01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+D:\PRN212\LeQuocViet_SE1848_A01\LeQuocViet_PRN212_A01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\PRN212\LeQuocViet_SE1848_A01\LeQuocViet_PRN212_A01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.sourcelink.json
+D:\PRN212\LeQuocViet_SE1848_A01\LeQuocViet_PRN212_A01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+D:\PRN212\LeQuocViet_SE1848_A01\LeQuocViet_PRN212_A01\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+D:\PRN212\LeQuocViet_SE1848_A01\LeQuocViet_PRN212_A01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+D:\PRN212\LeQuocViet_SE1848_A01\LeQuocViet_PRN212_A01\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll

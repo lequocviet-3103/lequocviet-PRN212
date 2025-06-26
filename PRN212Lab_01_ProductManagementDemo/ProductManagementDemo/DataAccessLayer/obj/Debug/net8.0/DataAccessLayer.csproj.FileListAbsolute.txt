@@ -4,3 +4,13 @@ D:\PRN212\PRN212Lab_01_ProductManagementDemo\ProductManagementDemo\DataAccessLay
 D:\PRN212\PRN212Lab_01_ProductManagementDemo\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
 D:\PRN212\PRN212Lab_01_ProductManagementDemo\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
 D:\PRN212\PRN212Lab_01_ProductManagementDemo\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json
+D:\PRN212\PRN212Lab_01_ProductManagementDemo\ProductManagementDemo\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\PRN212\PRN212Lab_01_ProductManagementDemo\ProductManagementDemo\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\PRN212\PRN212Lab_01_ProductManagementDemo\ProductManagementDemo\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\PRN212\PRN212Lab_01_ProductManagementDemo\ProductManagementDemo\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.dll
+D:\PRN212\PRN212Lab_01_ProductManagementDemo\ProductManagementDemo\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.pdb
+D:\PRN212\PRN212Lab_01_ProductManagementDemo\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+D:\PRN212\PRN212Lab_01_ProductManagementDemo\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\PRN212\PRN212Lab_01_ProductManagementDemo\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\PRN212\PRN212Lab_01_ProductManagementDemo\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\PRN212\PRN212Lab_01_ProductManagementDemo\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

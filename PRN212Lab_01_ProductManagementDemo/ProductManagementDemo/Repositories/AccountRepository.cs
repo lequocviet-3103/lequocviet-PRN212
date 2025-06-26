@@ -1,8 +1,11 @@
-﻿namespace Repositories
+﻿using BusinessObjects;
+using DataAccessLayer;
+
+namespace Repositories
 {
     public class AccountRepository : IAccountRepository
     {
-        public AccountMember GetAccountMember(string accountID) => AccountDAO.GetAccountById(accountID);
-
+        public AccountMember GetAccountById(string accountID)
+        => AccountDAO.GetAccountById(accountID);
     }
 }

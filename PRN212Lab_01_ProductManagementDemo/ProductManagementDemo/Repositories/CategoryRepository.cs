@@ -10,11 +10,8 @@ namespace Repositories
 {
     public class CategoryRepository : ICategoryRepository
     {
-        public List<Category> GetCategories() => CategoryDAO.GetCategories();
+        public List<Category> GetCategories() => CategoryDAO.GetCatagories();
 
-        List<BusinessObjects.Category> ICategoryRepository.GetCategories()
-        {
-            throw new NotImplementedException();
-        }
+        
     }
 }

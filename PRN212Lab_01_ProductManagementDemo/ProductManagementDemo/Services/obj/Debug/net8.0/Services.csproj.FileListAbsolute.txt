@@ -11,3 +11,10 @@ D:\PRN212\PRN212Lab_01_ProductManagementDemo\ProductManagementDemo\Services\obj\
 D:\PRN212\PRN212Lab_01_ProductManagementDemo\ProductManagementDemo\Services\obj\Debug\net8.0\Services.pdb
 D:\PRN212\PRN212Lab_01_ProductManagementDemo\ProductManagementDemo\Services\obj\Debug\net8.0\ref\Services.dll
 D:\PRN212\PRN212Lab_01_ProductManagementDemo\ProductManagementDemo\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\PRN212\PRN212Lab_01_ProductManagementDemo\ProductManagementDemo\Services\bin\Debug\net8.0\BusinessObjects.dll
+D:\PRN212\PRN212Lab_01_ProductManagementDemo\ProductManagementDemo\Services\bin\Debug\net8.0\DataAccessLayer.dll
+D:\PRN212\PRN212Lab_01_ProductManagementDemo\ProductManagementDemo\Services\bin\Debug\net8.0\Repositories.dll
+D:\PRN212\PRN212Lab_01_ProductManagementDemo\ProductManagementDemo\Services\bin\Debug\net8.0\BusinessObjects.pdb
+D:\PRN212\PRN212Lab_01_ProductManagementDemo\ProductManagementDemo\Services\bin\Debug\net8.0\Repositories.pdb
+D:\PRN212\PRN212Lab_01_ProductManagementDemo\ProductManagementDemo\Services\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\PRN212\PRN212Lab_01_ProductManagementDemo\ProductManagementDemo\Services\obj\Debug\net8.0\Services.csproj.Up2Date

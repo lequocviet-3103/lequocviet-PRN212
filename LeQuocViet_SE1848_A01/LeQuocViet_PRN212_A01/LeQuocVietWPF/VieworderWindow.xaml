@@ -1,0 +1,25 @@
+﻿<Window x:Class="LeQuocVietWPF.VieworderWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LeQuocVietWPF"
+        mc:Ignorable="d"
+        Title="VieworderWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <ListView x:Name="list" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="43,52,26,10">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Order ID" DisplayMemberBinding="{Binding OrderID}" />
+                    <GridViewColumn Header="Product" DisplayMemberBinding="{Binding ProductName}" />
+                    <GridViewColumn Header="Quantity" DisplayMemberBinding="{Binding Quantity}" />
+                    <GridViewColumn Header="Unit Price" DisplayMemberBinding="{Binding UnitPrice}" />
+                    <GridViewColumn Header="Discount" DisplayMemberBinding="{Binding Discount}" />
+                    <GridViewColumn Header="Total" DisplayMemberBinding="{Binding Total}" />
+                  </GridView>
+            </ListView.View>
+        </ListView>
+        <Label x:Name="lvHistory" Content="View Order History" HorizontalAlignment="Left" Margin="265,8,0,0" VerticalAlignment="Top" FontSize="22"/>
+
+    </Grid>
+</Window>

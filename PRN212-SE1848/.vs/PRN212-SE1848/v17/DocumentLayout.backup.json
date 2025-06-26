@@ -3,20 +3,48 @@
   "WorkspaceRootPath": "D:\\PRN212\\PRN212-SE1848\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0CCDFB2A-4F6D-42A5-8B42-7EF30279CC9F}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|d:\\prn212\\prn212-se1848\\buttoncontrol_tonghop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0CCDFB2A-4F6D-42A5-8B42-7EF30279CC9F}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|solutionrelative:buttoncontrol_tonghop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{DACE426D-71AE-4CFC-A0C3-097C38DBDE0F}|Services\\Services.csproj|d:\\prn212\\prn212-se1848\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DACE426D-71AE-4CFC-A0C3-097C38DBDE0F}|Services\\Services.csproj|solutionrelative:services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CCDFB2A-4F6D-42A5-8B42-7EF30279CC9F}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|d:\\prn212\\prn212-se1848\\buttoncontrol_tonghop\\image\\thoat.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{0CCDFB2A-4F6D-42A5-8B42-7EF30279CC9F}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|solutionrelative:buttoncontrol_tonghop\\image\\thoat.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+      "AbsoluteMoniker": "D:0:0:{D9F797E9-A875-42FD-9B56-554398F82764}|DataAccessLayer\\DataAccessLayer.csproj|d:\\prn212\\prn212-se1848\\dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F797E9-A875-42FD-9B56-554398F82764}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CCDFB2A-4F6D-42A5-8B42-7EF30279CC9F}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|d:\\prn212\\prn212-se1848\\buttoncontrol_tonghop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CCDFB2A-4F6D-42A5-8B42-7EF30279CC9F}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|solutionrelative:buttoncontrol_tonghop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6686D88B-A0E7-4CD2-8098-819F368B9582}|Repositories\\Repositories.csproj|d:\\prn212\\prn212-se1848\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6686D88B-A0E7-4CD2-8098-819F368B9582}|Repositories\\Repositories.csproj|solutionrelative:repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CCDFB2A-4F6D-42A5-8B42-7EF30279CC9F}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|d:\\prn212\\prn212-se1848\\buttoncontrol_tonghop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0CCDFB2A-4F6D-42A5-8B42-7EF30279CC9F}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|solutionrelative:buttoncontrol_tonghop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{D9F797E9-A875-42FD-9B56-554398F82764}|DataAccessLayer\\DataAccessLayer.csproj|d:\\prn212\\prn212-se1848\\dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F797E9-A875-42FD-9B56-554398F82764}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B4817A-7DAF-491A-9684-D539D9501A54}|BusinessObject\\BusinessObject.csproj|d:\\prn212\\prn212-se1848\\businessobject\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B4817A-7DAF-491A-9684-D539D9501A54}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F797E9-A875-42FD-9B56-554398F82764}|DataAccessLayer\\DataAccessLayer.csproj|d:\\prn212\\prn212-se1848\\dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D9F797E9-A875-42FD-9B56-554398F82764}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8E25C-36CE-4400-BF99-A89495CA86B3}|TreeViewWpfApp\\TreeViewWpfApp.csproj|d:\\prn212\\prn212-se1848\\treeviewwpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E8E25C-36CE-4400-BF99-A89495CA86B3}|TreeViewWpfApp\\TreeViewWpfApp.csproj|solutionrelative:treeviewwpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8E25C-36CE-4400-BF99-A89495CA86B3}|TreeViewWpfApp\\TreeViewWpfApp.csproj|d:\\prn212\\prn212-se1848\\treeviewwpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32E8E25C-36CE-4400-BF99-A89495CA86B3}|TreeViewWpfApp\\TreeViewWpfApp.csproj|solutionrelative:treeviewwpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8E25C-36CE-4400-BF99-A89495CA86B3}|TreeViewWpfApp\\TreeViewWpfApp.csproj|d:\\prn212\\prn212-se1848\\treeviewwpfapp\\model\\sampledataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E8E25C-36CE-4400-BF99-A89495CA86B3}|TreeViewWpfApp\\TreeViewWpfApp.csproj|solutionrelative:treeviewwpfapp\\model\\sampledataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8E25C-36CE-4400-BF99-A89495CA86B3}|TreeViewWpfApp\\TreeViewWpfApp.csproj|d:\\prn212\\prn212-se1848\\treeviewwpfapp\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E8E25C-36CE-4400-BF99-A89495CA86B3}|TreeViewWpfApp\\TreeViewWpfApp.csproj|solutionrelative:treeviewwpfapp\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8E25C-36CE-4400-BF99-A89495CA86B3}|TreeViewWpfApp\\TreeViewWpfApp.csproj|d:\\prn212\\prn212-se1848\\treeviewwpfapp\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E8E25C-36CE-4400-BF99-A89495CA86B3}|TreeViewWpfApp\\TreeViewWpfApp.csproj|solutionrelative:treeviewwpfapp\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,52 +59,138 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\ButtonControl_TongHop\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "ButtonControl_TongHop\\MainWindow.xaml",
-              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\ButtonControl_TongHop\\MainWindow.xaml",
-              "RelativeToolTip": "ButtonControl_TongHop\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-15T08:16:11.076Z",
-              "IsPinned": true,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:56:17.329Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "thoat.png - PNG [16x16, 32 bit, PNG]",
-              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\ButtonControl_TongHop\\Image\\thoat.png",
-              "RelativeDocumentMoniker": "ButtonControl_TongHop\\Image\\thoat.png",
-              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\ButtonControl_TongHop\\Image\\thoat.png - PNG [16x16, 32 bit, PNG]",
-              "RelativeToolTip": "ButtonControl_TongHop\\Image\\thoat.png - PNG [16x16, 32 bit, PNG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-06-15T08:46:19.48Z",
-              "EditorCaption": " - PNG [16x16, 32 bit, PNG]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\ButtonControl_TongHop\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "ButtonControl_TongHop\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\ButtonControl_TongHop\\MainWindow.xaml.cs",
-              "RelativeToolTip": "ButtonControl_TongHop\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAewBoAAAAJAAAAAAAAAA==",
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CustomerRepository.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T08:29:25.942Z",
+              "WhenOpened": "2025-06-25T13:01:24.741Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\ButtonControl_TongHop\\App.xaml",
-              "RelativeDocumentMoniker": "ButtonControl_TongHop\\App.xaml",
-              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\ButtonControl_TongHop\\App.xaml",
-              "RelativeToolTip": "ButtonControl_TongHop\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-15T08:16:07.903Z",
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\DataAccessLayer\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\ProductDAO.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\DataAccessLayer\\ProductDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\ProductDAO.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwCkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T05:16:21.786Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\BusinessObject\\Product.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Product.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\BusinessObject\\Product.cs",
+              "RelativeToolTip": "BusinessObject\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T05:15:54.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerDAO.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\DataAccessLayer\\CustomerDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CustomerDAO.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\DataAccessLayer\\CustomerDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\CustomerDAO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T05:15:46.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataAccessLayer.csproj",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeToolTip": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-25T05:15:43.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SampleDataSet.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\TreeViewWpfApp\\Model\\SampleDataSet.cs",
+              "RelativeDocumentMoniker": "TreeViewWpfApp\\Model\\SampleDataSet.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\TreeViewWpfApp\\Model\\SampleDataSet.cs",
+              "RelativeToolTip": "TreeViewWpfApp\\Model\\SampleDataSet.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:06:52.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\TreeViewWpfApp\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "TreeViewWpfApp\\Model\\Product.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\TreeViewWpfApp\\Model\\Product.cs",
+              "RelativeToolTip": "TreeViewWpfApp\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:01:47.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\TreeViewWpfApp\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "TreeViewWpfApp\\Model\\Category.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\TreeViewWpfApp\\Model\\Category.cs",
+              "RelativeToolTip": "TreeViewWpfApp\\Model\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:00:02.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\TreeViewWpfApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TreeViewWpfApp\\MainWindow.xaml",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\TreeViewWpfApp\\MainWindow.xaml",
+              "RelativeToolTip": "TreeViewWpfApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-24T06:57:56.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\TreeViewWpfApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TreeViewWpfApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\TreeViewWpfApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TreeViewWpfApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T06:57:56.817Z"
             }
           ]
         }
