@@ -77,7 +77,7 @@ namespace LeQuocVietWPF {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/LeQuocVietWPF;V1.0.0.0;component/reportwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/LeQuocVietWPF;component/reportwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\ReportWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

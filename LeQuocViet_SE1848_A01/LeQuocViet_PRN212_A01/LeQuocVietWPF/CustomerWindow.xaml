@@ -6,10 +6,10 @@
         xmlns:local="clr-namespace:LeQuocVietWPF"
         mc:Ignorable="d"
         Title="CustomerWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen">
-    <Grid>
-        <Button x:Name="btnHistory" Content="View their order history" HorizontalAlignment="Center" Margin="0,76,0,0" VerticalAlignment="Top" FontSize="20" Click="btnHistory_Click"/>
-        <Button x:Name="btnEdit" Content="Edit personal profile" HorizontalAlignment="Center" Margin="0,156,0,0" VerticalAlignment="Top" FontSize="20" Click="btnEdit_Click" Width="214"/>
-        <Button x:Name="btnClose" Content="Close" HorizontalAlignment="Center" Margin="0,232,0,0" VerticalAlignment="Top" FontSize="22" Width="214" Click="btnClose_Click"/>
+    <Grid Background="#FFC6FFF4">
+        <Button x:Name="btnHistory" Content="View order history" HorizontalAlignment="Center" Margin="0,76,0,0" VerticalAlignment="Top" FontSize="20" Click="btnHistory_Click" Height="38" Width="214" Background="#FF9DFF9E"/>
+        <Button x:Name="btnEdit" Content="Edit personal profile" HorizontalAlignment="Center" Margin="0,156,0,0" VerticalAlignment="Top" FontSize="20" Click="btnEdit_Click" Width="214" Background="#FF75F776"/>
+        <Button x:Name="btnClose" Content="Close" HorizontalAlignment="Center" Margin="0,232,0,0" VerticalAlignment="Top" FontSize="22" Width="214" Click="btnClose_Click" Background="#FFFF3939" BorderBrush="White" Foreground="White"/>
 
     </Grid>
 </Window>

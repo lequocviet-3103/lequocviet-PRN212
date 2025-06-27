@@ -7,9 +7,17 @@
         mc:Ignorable="d"
         Title="LoginWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen">
     <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black"/>
+                <GradientStop Color="#FF3BDBEB" Offset="0"/>
+            </LinearGradientBrush>
+        </Grid.Background>
         <TextBox x:Name="txtUsername" HorizontalAlignment="Center" Margin="0,95,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="430" FontSize="22"/>
-        <Button x:Name="btnLogin" Content="Login" HorizontalAlignment="Center" Margin="0,262,0,0" VerticalAlignment="Top" FontSize="22" Width="151" Click="btnLogin_Click"/>
-        <Button x:Name="btnCancel" Content="Cancel" HorizontalAlignment="Center" Margin="0,344,0,0" VerticalAlignment="Top" FontSize="22" Width="151" Click="btnCancel_Click"/>
+        <Button x:Name="btnLogin" Content="Login" HorizontalAlignment="Center" Margin="0,262,0,0" VerticalAlignment="Top" FontSize="22" Width="151" Click="btnLogin_Click" Background="White"/>
+        <Button x:Name="btnCancel" Content="Cancel" HorizontalAlignment="Center" Margin="0,344,0,0" VerticalAlignment="Top" FontSize="22" Width="151" Click="btnCancel_Click" Background="#FFFF4747" Foreground="White"/>
         <PasswordBox x:Name="txtPassword" HorizontalAlignment="Center" Margin="0,175,0,0" VerticalAlignment="Top" Width="430" FontSize="22"/>
+        <Label Content="Tên đăng nhập" HorizontalAlignment="Left" Margin="29,95,0,0" VerticalAlignment="Top" FontSize="20" Background="White"/>
+        <Label Content="Mật khẩu" HorizontalAlignment="Left" Margin="29,175,0,0" VerticalAlignment="Top" FontSize="20" Background="White" Width="141"/>
     </Grid>
 </Window>

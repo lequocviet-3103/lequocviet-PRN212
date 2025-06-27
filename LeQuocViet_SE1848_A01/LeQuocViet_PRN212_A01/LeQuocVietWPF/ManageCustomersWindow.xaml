@@ -6,24 +6,33 @@
         xmlns:local="clr-namespace:LeQuocVietWPF"
         mc:Ignorable="d"
         Title="ManageCustomersWindow" Height="750" Width="825" WindowStartupLocation="CenterScreen">
-    <Grid>
-        <Button x:Name="btnCreate" Content="Create" HorizontalAlignment="Left" Margin="224,665,0,0" VerticalAlignment="Top" FontSize="20" Click="btnCreate_Click"/>
+    <Grid Background="#FFBFFEF6">
+        <Button x:Name="btnCreate" Content="Create" HorizontalAlignment="Left" Margin="224,665,0,0" VerticalAlignment="Top" FontSize="20" Click="btnCreate_Click" Background="#FF25FF49"/>
         <Label Content="CUSTOMER MANAGERMENT" HorizontalAlignment="Center" Margin="0,4,0,0" VerticalAlignment="Top"/>
-        <Label Content="Customer ID" HorizontalAlignment="Left" Margin="18,34,0,0" VerticalAlignment="Top" FontSize="14" />
-        <Label Content="Company Name" HorizontalAlignment="Left" Margin="18,65,0,0" VerticalAlignment="Top" FontSize="14"/>
-        <Label Content="Contact Name" HorizontalAlignment="Left" Margin="18,94,0,0" VerticalAlignment="Top" FontSize="14"/>
-        <Label Content="Contact Title" HorizontalAlignment="Left" Margin="18,124,0,0" VerticalAlignment="Top" FontSize="14"/>
-        <Label Content="Address" HorizontalAlignment="Left" Margin="18,154,0,0" VerticalAlignment="Top" FontSize="14"/>
-        <Label Content="Phone" HorizontalAlignment="Left" Margin="18,185,0,0" VerticalAlignment="Top" FontSize="14"/>
+        <Label Content="Customer ID" HorizontalAlignment="Left" Margin="18,34,0,0" VerticalAlignment="Top" FontSize="14" Background="#FFF2F2F2" Width="160" />
+        <Label Content="Company Name" HorizontalAlignment="Left" Margin="18,65,0,0" VerticalAlignment="Top" FontSize="14" Background="#FFF2F2F2" Width="160"/>
+        <Label Content="Contact Name" HorizontalAlignment="Left" Margin="18,94,0,0" VerticalAlignment="Top" FontSize="14" Background="#FFF2F2F2" Width="160"/>
+        <Label Content="Contact Title" HorizontalAlignment="Left" Margin="18,124,0,0" VerticalAlignment="Top" FontSize="14" Background="#FFF2F2F2" RenderTransformOrigin="0.5,0.5" Width="160">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="-0.283"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="-0.217"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label Content="Address" HorizontalAlignment="Left" Margin="18,154,0,0" VerticalAlignment="Top" FontSize="14" Background="#FFF2F2F2" Width="160"/>
+        <Label Content="Phone" HorizontalAlignment="Left" Margin="18,185,0,0" VerticalAlignment="Top" FontSize="14" Background="#FFF2F2F2" Width="160"/>
         <TextBox x:Name="txtCustomerID" IsReadOnly="True" HorizontalAlignment="Left" Margin="234,42,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="482" FontSize="14"/>
         <TextBox x:Name="txtCompanyName" HorizontalAlignment="Left" Margin="234,69,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="482" FontSize="14"/>
         <TextBox x:Name="txtContactName" HorizontalAlignment="Left" Margin="234,98,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="482" FontSize="14"/>
         <TextBox x:Name="txtContactTitle" HorizontalAlignment="Left" Margin="234,128,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="482" FontSize="14"/>
         <TextBox x:Name="txtAddress" HorizontalAlignment="Left" Margin="234,158,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="482" FontSize="14"/>
         <TextBox x:Name="txtPhone" HorizontalAlignment="Left" Margin="234,189,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="482" FontSize="14"/>
-        <Button x:Name="btnUpdate" Content="Update" HorizontalAlignment="Center" Margin="0,665,0,0" VerticalAlignment="Top" FontSize="20" Click="btnUpdate_Click"/>
-        <Button x:Name="btnDelete" Content="Delete" HorizontalAlignment="Left" Margin="520,665,0,0" VerticalAlignment="Top" FontSize="20" Click="btnDelete_Click"/>
-        <Button x:Name="btnClose" Content="Close" HorizontalAlignment="Left" Margin="738,665,0,0" VerticalAlignment="Top" FontSize="20" Click="btnClose_Click"/>
+        <Button x:Name="btnUpdate" Content="Update" HorizontalAlignment="Center" Margin="0,665,0,0" VerticalAlignment="Top" FontSize="20" Click="btnUpdate_Click" Background="#FF54FF4B"/>
+        <Button x:Name="btnDelete" Content="Delete" HorizontalAlignment="Left" Margin="520,665,0,0" VerticalAlignment="Top" FontSize="20" Click="btnDelete_Click" Background="#FFFF6767"/>
+        <Button x:Name="btnClose" Content="Close" HorizontalAlignment="Left" Margin="738,665,0,0" VerticalAlignment="Top" FontSize="20" Click="btnClose_Click" Background="#FFFF7F7F"/>
         <ListBox x:Name="lstCustomers"
          Margin="43,289,84,101"
          SelectedValuePath="Id" FontSize="14" SelectionChanged="lstCustomers_SelectionChanged">
@@ -41,9 +50,9 @@
                 </DataTemplate>
             </ListBox.ItemTemplate>
         </ListBox>
-        <Label Content="Search Customer Name" HorizontalAlignment="Left" Margin="22,219,0,0" VerticalAlignment="Top" FontSize="14"/>
+        <Label Content="Search Customer Name" HorizontalAlignment="Left" Margin="18,219,0,0" VerticalAlignment="Top" FontSize="14" Background="#FFF2F2F2" Width="160"/>
         <TextBox x:Name="txtSearch" HorizontalAlignment="Left" Margin="234,227,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="482" FontSize="14"/>
-        <Button x:Name="btnSearch" Content="Search" HorizontalAlignment="Left" Margin="764,231,0,0" VerticalAlignment="Top" FontSize="14" Click="btnSearch_Click"/>
+        <Button x:Name="btnSearch" Content="Search" HorizontalAlignment="Left" Margin="764,231,0,0" VerticalAlignment="Top" FontSize="14" Click="btnSearch_Click" Background="#FFF6FF50"/>
 
 
     </Grid>

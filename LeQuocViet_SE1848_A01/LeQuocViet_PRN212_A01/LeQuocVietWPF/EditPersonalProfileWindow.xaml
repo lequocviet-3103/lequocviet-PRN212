@@ -6,17 +6,17 @@
         xmlns:local="clr-namespace:LeQuocVietWPF"
         mc:Ignorable="d"
         Title="EditPersonalProfileWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen">
-    <Grid>
-        <Button x:Name="btnUpdate" Content="Update" HorizontalAlignment="Left" Margin="69,317,0,0" VerticalAlignment="Top" FontSize="22" Click="btnUpdate_Click"/>
-        <Label Content="Company Name" HorizontalAlignment="Left" Margin="62,34,0,0" VerticalAlignment="Top" FontSize="20"/>
+    <Grid Background="#FFABFCFA">
+        <Button x:Name="btnUpdate" Content="Update" HorizontalAlignment="Left" Margin="69,317,0,0" VerticalAlignment="Top" FontSize="22" Click="btnUpdate_Click" Background="#FFEDFF5F" Foreground="Black" FontWeight="Bold"/>
+        <Label Content="Company Name" HorizontalAlignment="Left" Margin="62,34,0,0" VerticalAlignment="Top" FontSize="20" Background="White"/>
         <TextBox x:Name="txtCompanyName" HorizontalAlignment="Left" Margin="246,42,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="254" FontSize="20"/>
-        <Label Content="Contact Name" HorizontalAlignment="Left" Margin="62,84,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <Label Content="Contact Name" HorizontalAlignment="Left" Margin="62,84,0,0" VerticalAlignment="Top" FontSize="20" Width="145" Background="White"/>
         <TextBox x:Name="txtContactName" HorizontalAlignment="Left" Margin="246,92,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="254" FontSize="20"/>
-        <Label Content="Contact title" HorizontalAlignment="Left" Margin="72,137,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <Label Content="Contact title" HorizontalAlignment="Left" Margin="62,137,0,0" VerticalAlignment="Top" FontSize="20" Width="145" Background="White"/>
         <TextBox x:Name="txtContactTitle" HorizontalAlignment="Left" Margin="246,137,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="254" FontSize="20"/>
-        <Label Content="Address" HorizontalAlignment="Left" Margin="71,188,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <Label Content="Address" HorizontalAlignment="Left" Margin="62,188,0,0" VerticalAlignment="Top" FontSize="20" Width="137" Background="White"/>
         <TextBox x:Name="txtAddress" HorizontalAlignment="Left" Margin="246,188,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="254" FontSize="20"/>
-        <Label Content="Phone" HorizontalAlignment="Left" Margin="78,240,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <Label Content="Phone" HorizontalAlignment="Left" Margin="62,240,0,0" VerticalAlignment="Top" FontSize="20" Background="#FFFEFEFE" Width="137"/>
         <TextBox x:Name="txtPhone" HorizontalAlignment="Left" Margin="246,244,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="254" FontSize="20"/>
 
     </Grid>

@@ -69,7 +69,7 @@ namespace LeQuocVietWPF {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/LeQuocVietWPF;V1.0.0.0;component/vieworderwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/LeQuocVietWPF;component/vieworderwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\VieworderWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

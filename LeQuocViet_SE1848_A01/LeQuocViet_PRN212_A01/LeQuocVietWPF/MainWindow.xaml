@@ -6,13 +6,13 @@
         xmlns:local="clr-namespace:LeQuocVietWPF"
         mc:Ignorable="d"
         Title="SE180751-Lê Quốc Việt" Height="450" Width="800" WindowStartupLocation="CenterScreen">
-    <Grid>
+    <Grid Background="#FF8DFFF1">
 
-        <Button x:Name="btnManageCustomers" Content="Manage Customers " HorizontalAlignment="Center" Margin="0,56,0,0" VerticalAlignment="Top" FontSize="22" Width="296" Click="btnManageCustomers_Click"/>
-        <Button x:Name="btnManageProducts" Content="Manage Products" HorizontalAlignment="Center" Margin="0,131,0,0" VerticalAlignment="Top" FontSize="22" Width="296" Click="btnManageProducts_Click"/>
-        <Button x:Name="btnCreateAndViewOrders" Content="Create and View Orders" HorizontalAlignment="Center" Margin="0,210,0,0" VerticalAlignment="Top" FontSize="22" Width="296" Click="btnCreateAndViewOrders_Click" />
-        <Button x:Name="btnReport" Content="Reports" HorizontalAlignment="Center" Margin="0,278,0,0" VerticalAlignment="Top" FontSize="22" Width="296" Click="btnReport_Click"/>
-        <Button x:Name="btnClose" Content="Close" HorizontalAlignment="Center" Margin="0,348,0,0" VerticalAlignment="Top" FontSize="22" Width="296" Click="btnClose_Click"/>
+        <Button x:Name="btnManageCustomers" Content="Manage Customers " HorizontalAlignment="Center" Margin="0,56,0,0" VerticalAlignment="Top" FontSize="22" Width="296" Click="btnManageCustomers_Click" Background="#FFECFC38"/>
+        <Button x:Name="btnManageProducts" Content="Manage Products" HorizontalAlignment="Center" Margin="0,131,0,0" VerticalAlignment="Top" FontSize="22" Width="296" Click="btnManageProducts_Click" Background="#FFFFF744"/>
+        <Button x:Name="btnCreateAndViewOrders" Content="Create and View Orders" HorizontalAlignment="Center" Margin="0,210,0,0" VerticalAlignment="Top" FontSize="22" Width="296" Click="btnCreateAndViewOrders_Click" Background="#FFFFF744" />
+        <Button x:Name="btnReport" Content="Reports" HorizontalAlignment="Center" Margin="0,278,0,0" VerticalAlignment="Top" FontSize="22" Width="296" Click="btnReport_Click" Background="#FFFEF63D"/>
+        <Button x:Name="btnClose" Content="Close" HorizontalAlignment="Center" Margin="0,348,0,0" VerticalAlignment="Top" FontSize="22" Width="296" Click="btnClose_Click" Background="#FFFF534E" Foreground="White"/>
 
     </Grid>
 </Window>
