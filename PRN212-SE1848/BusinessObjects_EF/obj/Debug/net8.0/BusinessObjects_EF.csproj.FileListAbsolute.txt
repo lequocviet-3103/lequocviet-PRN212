@@ -1,0 +1,12 @@
+D:\PRN212\PRN212-SE1848\BusinessObjects_EF\bin\Debug\net8.0\BusinessObjects_EF.deps.json
+D:\PRN212\PRN212-SE1848\BusinessObjects_EF\bin\Debug\net8.0\BusinessObjects_EF.dll
+D:\PRN212\PRN212-SE1848\BusinessObjects_EF\bin\Debug\net8.0\BusinessObjects_EF.pdb
+D:\PRN212\PRN212-SE1848\BusinessObjects_EF\obj\Debug\net8.0\BusinessObjects_EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\PRN212-SE1848\BusinessObjects_EF\obj\Debug\net8.0\BusinessObjects_EF.AssemblyInfoInputs.cache
+D:\PRN212\PRN212-SE1848\BusinessObjects_EF\obj\Debug\net8.0\BusinessObjects_EF.AssemblyInfo.cs
+D:\PRN212\PRN212-SE1848\BusinessObjects_EF\obj\Debug\net8.0\BusinessObjects_EF.csproj.CoreCompileInputs.cache
+D:\PRN212\PRN212-SE1848\BusinessObjects_EF\obj\Debug\net8.0\BusinessObjects_EF.sourcelink.json
+D:\PRN212\PRN212-SE1848\BusinessObjects_EF\obj\Debug\net8.0\BusinessObjects_EF.dll
+D:\PRN212\PRN212-SE1848\BusinessObjects_EF\obj\Debug\net8.0\refint\BusinessObjects_EF.dll
+D:\PRN212\PRN212-SE1848\BusinessObjects_EF\obj\Debug\net8.0\BusinessObjects_EF.pdb
+D:\PRN212\PRN212-SE1848\BusinessObjects_EF\obj\Debug\net8.0\ref\BusinessObjects_EF.dll

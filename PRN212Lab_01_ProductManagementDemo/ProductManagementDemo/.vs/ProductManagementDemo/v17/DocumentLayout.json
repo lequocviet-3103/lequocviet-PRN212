@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\PRN212\\PRN212Lab_01_ProductManagementDemo\\ProductManagementDemo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{13FACE79-E787-43B1-8BE3-304732982ECF}|WPFApp\\WPFApp.csproj|d:\\prn212\\prn212lab_01_productmanagementdemo\\productmanagementdemo\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13FACE79-E787-43B1-8BE3-304732982ECF}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F39BF590-6A3C-4C1E-A4D0-FD90B200D57D}|DataAccessLayer\\DataAccessLayer.csproj|d:\\prn212\\prn212lab_01_productmanagementdemo\\productmanagementdemo\\dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F39BF590-6A3C-4C1E-A4D0-FD90B200D57D}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\PRN212Lab_01_ProductManagementDemo\\ProductManagementDemo\\WPFApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml",
+              "ToolTip": "D:\\PRN212\\PRN212Lab_01_ProductManagementDemo\\ProductManagementDemo\\WPFApp\\MainWindow.xaml",
+              "RelativeToolTip": "WPFApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-28T13:41:38.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ProductDAO.cs",
               "DocumentMoniker": "D:\\PRN212\\PRN212Lab_01_ProductManagementDemo\\ProductManagementDemo\\DataAccessLayer\\ProductDAO.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\ProductDAO.cs",
               "ToolTip": "D:\\PRN212\\PRN212Lab_01_ProductManagementDemo\\ProductManagementDemo\\DataAccessLayer\\ProductDAO.cs",
               "RelativeToolTip": "DataAccessLayer\\ProductDAO.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBEAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAywBEAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T13:31:45.403Z",
               "EditorCaption": ""

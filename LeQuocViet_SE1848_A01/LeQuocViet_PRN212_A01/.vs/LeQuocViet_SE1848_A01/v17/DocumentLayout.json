@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EB4F8916-1B23-44DD-AE38-427FA384025E}|DataAccessLayer\\DataAccessLayer.csproj|d:\\prn212\\lequocviet_se1848_a01\\lequocviet_prn212_a01\\dataaccesslayer\\datacontextsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4F8916-1B23-44DD-AE38-427FA384025E}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\datacontextsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E06D656-6749-4146-84DA-4E42DB7E11A5}|LeQuocVietWPF\\LeQuocVietWPF.csproj|d:\\prn212\\lequocviet_se1848_a01\\lequocviet_prn212_a01\\lequocvietwpf\\createandviewwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E06D656-6749-4146-84DA-4E42DB7E11A5}|LeQuocVietWPF\\LeQuocVietWPF.csproj|solutionrelative:lequocvietwpf\\createandviewwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7E06D656-6749-4146-84DA-4E42DB7E11A5}|LeQuocVietWPF\\LeQuocVietWPF.csproj|d:\\prn212\\lequocviet_se1848_a01\\lequocviet_prn212_a01\\lequocvietwpf\\createandviewwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7E06D656-6749-4146-84DA-4E42DB7E11A5}|LeQuocVietWPF\\LeQuocVietWPF.csproj|solutionrelative:lequocvietwpf\\createandviewwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -37,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7E06D656-6749-4146-84DA-4E42DB7E11A5}|LeQuocVietWPF\\LeQuocVietWPF.csproj|d:\\prn212\\lequocviet_se1848_a01\\lequocviet_prn212_a01\\lequocvietwpf\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7E06D656-6749-4146-84DA-4E42DB7E11A5}|LeQuocVietWPF\\LeQuocVietWPF.csproj|solutionrelative:lequocvietwpf\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB4F8916-1B23-44DD-AE38-427FA384025E}|DataAccessLayer\\DataAccessLayer.csproj|d:\\prn212\\lequocviet_se1848_a01\\lequocviet_prn212_a01\\dataaccesslayer\\datacontextsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB4F8916-1B23-44DD-AE38-427FA384025E}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\datacontextsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E06D656-6749-4146-84DA-4E42DB7E11A5}|LeQuocVietWPF\\LeQuocVietWPF.csproj|d:\\prn212\\lequocviet_se1848_a01\\lequocviet_prn212_a01\\lequocvietwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -109,10 +113,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EB4F8916-1B23-44DD-AE38-427FA384025E}|DataAccessLayer\\DataAccessLayer.csproj|d:\\prn212\\lequocviet_se1848_a01\\lequocviet_prn212_a01\\dataaccesslayer\\orderdetailsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB4F8916-1B23-44DD-AE38-427FA384025E}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\orderdetailsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E06D656-6749-4146-84DA-4E42DB7E11A5}|LeQuocVietWPF\\LeQuocVietWPF.csproj|d:\\prn212\\lequocviet_se1848_a01\\lequocviet_prn212_a01\\lequocvietwpf\\createandviewwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E06D656-6749-4146-84DA-4E42DB7E11A5}|LeQuocVietWPF\\LeQuocVietWPF.csproj|solutionrelative:lequocvietwpf\\createandviewwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -122,11 +122,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "OrderService.cs",
               "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\Services\\OrderService.cs",
               "RelativeDocumentMoniker": "Services\\OrderService.cs",
@@ -140,40 +140,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ReportWindow.xaml",
-              "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\LeQuocVietWPF\\ReportWindow.xaml",
-              "RelativeDocumentMoniker": "LeQuocVietWPF\\ReportWindow.xaml",
-              "ToolTip": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\LeQuocVietWPF\\ReportWindow.xaml",
-              "RelativeToolTip": "LeQuocVietWPF\\ReportWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-26T11:03:39.616Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VieworderWindow.xaml",
-              "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\LeQuocVietWPF\\VieworderWindow.xaml",
-              "RelativeDocumentMoniker": "LeQuocVietWPF\\VieworderWindow.xaml",
-              "ToolTip": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\LeQuocVietWPF\\VieworderWindow.xaml",
-              "RelativeToolTip": "LeQuocVietWPF\\VieworderWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-26T09:43:00.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ManageCustomersWindow.xaml",
-              "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\LeQuocVietWPF\\ManageCustomersWindow.xaml",
-              "RelativeDocumentMoniker": "LeQuocVietWPF\\ManageCustomersWindow.xaml",
-              "ToolTip": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\LeQuocVietWPF\\ManageCustomersWindow.xaml",
-              "RelativeToolTip": "LeQuocVietWPF\\ManageCustomersWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-26T11:15:11.667Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "CreateAndViewWindow.xaml",
               "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\LeQuocVietWPF\\CreateAndViewWindow.xaml",
               "RelativeDocumentMoniker": "LeQuocVietWPF\\CreateAndViewWindow.xaml",
@@ -185,7 +151,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "ReportWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\LeQuocVietWPF\\ReportWindow.xaml",
+              "RelativeDocumentMoniker": "LeQuocVietWPF\\ReportWindow.xaml",
+              "ToolTip": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\LeQuocVietWPF\\ReportWindow.xaml",
+              "RelativeToolTip": "LeQuocVietWPF\\ReportWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-26T11:03:39.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ManageProductsWindow.xaml",
               "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\LeQuocVietWPF\\ManageProductsWindow.xaml",
               "RelativeDocumentMoniker": "LeQuocVietWPF\\ManageProductsWindow.xaml",
@@ -196,7 +173,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "CreateAndViewWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\LeQuocVietWPF\\CreateAndViewWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LeQuocVietWPF\\CreateAndViewWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\LeQuocVietWPF\\CreateAndViewWindow.xaml.cs",
+              "RelativeToolTip": "LeQuocVietWPF\\CreateAndViewWindow.xaml.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:39:48.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataContextSingleton.cs",
+              "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\DataAccessLayer\\DataContextSingleton.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataContextSingleton.cs",
+              "ToolTip": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\DataAccessLayer\\DataContextSingleton.cs",
+              "RelativeToolTip": "DataAccessLayer\\DataContextSingleton.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvykAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:17:07.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VieworderWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\LeQuocVietWPF\\VieworderWindow.xaml",
+              "RelativeDocumentMoniker": "LeQuocVietWPF\\VieworderWindow.xaml",
+              "ToolTip": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\LeQuocVietWPF\\VieworderWindow.xaml",
+              "RelativeToolTip": "LeQuocVietWPF\\VieworderWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-26T09:43:00.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManageCustomersWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\LeQuocVietWPF\\ManageCustomersWindow.xaml",
+              "RelativeDocumentMoniker": "LeQuocVietWPF\\ManageCustomersWindow.xaml",
+              "ToolTip": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\LeQuocVietWPF\\ManageCustomersWindow.xaml",
+              "RelativeToolTip": "LeQuocVietWPF\\ManageCustomersWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-26T11:15:11.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\LeQuocVietWPF\\MainWindow.xaml",
               "RelativeDocumentMoniker": "LeQuocVietWPF\\MainWindow.xaml",
@@ -207,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "LoginWindow.xaml",
               "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\LeQuocVietWPF\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "LeQuocVietWPF\\LoginWindow.xaml",
@@ -218,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "EditPersonalProfileWindow.xaml",
               "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\LeQuocVietWPF\\EditPersonalProfileWindow.xaml",
               "RelativeDocumentMoniker": "LeQuocVietWPF\\EditPersonalProfileWindow.xaml",
@@ -229,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "CustomerWindow.xaml",
               "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\LeQuocVietWPF\\CustomerWindow.xaml",
               "RelativeDocumentMoniker": "LeQuocVietWPF\\CustomerWindow.xaml",
@@ -240,19 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DataContextSingleton.cs",
-              "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\DataAccessLayer\\DataContextSingleton.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\DataContextSingleton.cs",
-              "ToolTip": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\DataAccessLayer\\DataContextSingleton.cs",
-              "RelativeToolTip": "DataAccessLayer\\DataContextSingleton.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCkAAAB2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T11:17:07.814Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\LeQuocVietWPF\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "LeQuocVietWPF\\MainWindow.xaml.cs",
@@ -264,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "OrderReportViewModel.cs",
               "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\BusinessObjects\\OrderReportViewModel.cs",
               "RelativeDocumentMoniker": "BusinessObjects\\OrderReportViewModel.cs",
@@ -276,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "IOrderRepository.cs",
               "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\Repositories\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IOrderRepository.cs",
@@ -288,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ReportWindow.xaml.cs",
               "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\LeQuocVietWPF\\ReportWindow.xaml.cs",
               "RelativeDocumentMoniker": "LeQuocVietWPF\\ReportWindow.xaml.cs",
@@ -300,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "EditPersonalProfileWindow.xaml.cs",
               "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\LeQuocVietWPF\\EditPersonalProfileWindow.xaml.cs",
               "RelativeDocumentMoniker": "LeQuocVietWPF\\EditPersonalProfileWindow.xaml.cs",
@@ -312,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\Repositories\\OrderRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\OrderRepository.cs",
@@ -324,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "IOrderService.cs",
               "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\Services\\IOrderService.cs",
               "RelativeDocumentMoniker": "Services\\IOrderService.cs",
@@ -336,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "OrderDAO.cs",
               "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\DataAccessLayer\\OrderDAO.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\OrderDAO.cs",
@@ -348,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "VieworderWindow.xaml.cs",
               "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\LeQuocVietWPF\\VieworderWindow.xaml.cs",
               "RelativeDocumentMoniker": "LeQuocVietWPF\\VieworderWindow.xaml.cs",
@@ -360,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Customers.cs",
               "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\BusinessObjects\\Customers.cs",
               "RelativeDocumentMoniker": "BusinessObjects\\Customers.cs",
@@ -372,7 +385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "OrderCombinedViewModel.cs",
               "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\BusinessObjects\\OrderCombinedViewModel.cs",
               "RelativeDocumentMoniker": "BusinessObjects\\OrderCombinedViewModel.cs",
@@ -384,7 +397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Session.cs",
               "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\BusinessObjects\\Session.cs",
               "RelativeDocumentMoniker": "BusinessObjects\\Session.cs",
@@ -396,7 +409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Orders.cs",
               "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\BusinessObjects\\Orders.cs",
               "RelativeDocumentMoniker": "BusinessObjects\\Orders.cs",
@@ -408,7 +421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "EmployeeService.cs",
               "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\Services\\EmployeeService.cs",
               "RelativeDocumentMoniker": "Services\\EmployeeService.cs",
@@ -420,7 +433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "OrderDetailRepository.cs",
               "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\Repositories\\OrderDetailRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\OrderDetailRepository.cs",
@@ -432,7 +445,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "OrderDetailsDAO.cs",
               "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\DataAccessLayer\\OrderDetailsDAO.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\OrderDetailsDAO.cs",
@@ -441,18 +454,6 @@
               "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T10:17:01.608Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "CreateAndViewWindow.xaml.cs",
-              "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\LeQuocVietWPF\\CreateAndViewWindow.xaml.cs",
-              "RelativeDocumentMoniker": "LeQuocVietWPF\\CreateAndViewWindow.xaml.cs",
-              "ToolTip": "D:\\PRN212\\LeQuocViet_SE1848_A01\\LeQuocViet_PRN212_A01\\LeQuocVietWPF\\CreateAndViewWindow.xaml.cs",
-              "RelativeToolTip": "LeQuocVietWPF\\CreateAndViewWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T09:39:48.273Z"
             }
           ]
         }

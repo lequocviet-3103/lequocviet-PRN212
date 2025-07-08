@@ -1,0 +1,26 @@
+﻿<Window x:Class="MyStoreWpfApp_EntityFramework.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MyStoreWpfApp_EntityFramework"
+        mc:Ignorable="d"
+        Title="Đăng nhập hệ thống" Height="380" Width="610">
+    <Grid Background="#FF21FFFF">
+        <Label Content="Đăng nhập hệ thống" HorizontalAlignment="Left" Margin="161,31,0,0" VerticalAlignment="Top" FontSize="30">
+            <Label.Background>
+                <LinearGradientBrush>
+                    <GradientStop Color="Yellow" Offset="0.0"/>
+                    <GradientStop Color="Red" Offset="0.5"/>
+                    <GradientStop Color="Green" Offset="1.0"/>
+                </LinearGradientBrush>
+            </Label.Background>
+        </Label>
+        <Label Content="Email" HorizontalAlignment="Left" Margin="56,136,0,0" VerticalAlignment="Top" FontSize="20" Width="93" Background="White"/>
+        <TextBox x:Name="txtEmail" HorizontalAlignment="Left" Margin="176,140,0,0" TextWrapping="Wrap" Text="admin@CompanyName.com" VerticalAlignment="Top" Width="320" FontSize="20"/>
+        <Label Content="Password" HorizontalAlignment="Left" Margin="56,182,0,0" VerticalAlignment="Top" FontSize="20" Background="White"/>
+        <PasswordBox x:Name="txtPassword" Password="@1" HorizontalAlignment="Left" Margin="176,186,0,0" VerticalAlignment="Top" Width="320" FontSize="20"/>
+        <Button x:Name="btnDangNhap" Content="Đăng nhập" HorizontalAlignment="Left" Margin="190,262,0,0" VerticalAlignment="Top" FontSize="20" Background="#FFFAFF00" Click="btnDangNhap_Click"/>
+        <Button x:Name="btnThoat" Content="Thoát" HorizontalAlignment="Left" Margin="370,262,0,0" VerticalAlignment="Top" FontSize="20" Width="98" Background="Red" Click="btnThoat_Click" Foreground="White"/>
+    </Grid>
+</Window>
