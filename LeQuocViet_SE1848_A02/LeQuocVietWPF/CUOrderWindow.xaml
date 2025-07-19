@@ -1,0 +1,34 @@
+﻿<Window x:Class="LeQuocVietWPF.CUOrderWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LeQuocVietWPF"
+        mc:Ignorable="d"
+        Title="CUOrderWindow" Height="450" Width="800" Loaded="Window_Loaded">
+    <Viewbox Stretch="Fill">
+        <Grid Background="Aqua" Width="800" Height="450">
+            <Label Content="Create Order and OrderDetail" HorizontalAlignment="Left" Height="41" Margin="10,10,0,0" VerticalAlignment="Top" Width="446" FontSize="24" FontWeight="Bold"/>
+            <Label Content="Order ID" HorizontalAlignment="Left" Height="28" Margin="44,80,0,0" VerticalAlignment="Top" Width="96" FontSize="16" Background="#FFFFFCFC"/>
+            <Label Content="CustomerId" HorizontalAlignment="Left" Height="28" Margin="44,118,0,0" VerticalAlignment="Top" Width="96" FontSize="16" Background="#FFFFFCFC"/>
+
+            <Label Content="EmployeeId" HorizontalAlignment="Left" Height="28" Margin="44,151,0,0" VerticalAlignment="Top" Width="96" FontSize="16" Background="#FFFFFCFC"/>
+            <Label Content="OrderDate" HorizontalAlignment="Left" Height="28" Margin="44,184,0,0" VerticalAlignment="Top" Width="96" FontSize="16" Background="#FFFFFCFC"/>
+            <Label Content="ProductId" HorizontalAlignment="Left" Height="28" Margin="44,217,0,0" VerticalAlignment="Top" Width="96" FontSize="16" Background="#FFFFFCFC"/>
+            <Label Content="Discount" HorizontalAlignment="Left" Height="28" Margin="44,320,0,0" VerticalAlignment="Top" Width="96" FontSize="16" Background="#FFFFFCFC"/>
+            <Label Content="Quantity" HorizontalAlignment="Left" Height="33" Margin="44,283,0,0" VerticalAlignment="Top" Width="96" FontSize="16" Background="#FFFFFCFC"/>
+            <Label Content="UnitPrice" HorizontalAlignment="Left" Height="28" Margin="44,250,0,0" VerticalAlignment="Top" Width="96" FontSize="16" Background="#FFFFFCFC"/>
+            <TextBox x:Name="txtOrderId" HorizontalAlignment="Left" Height="28" Margin="205,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="294" FontSize="16"/>
+            <TextBox x:Name="txtCustomerId" HorizontalAlignment="Left" Height="28" Margin="205,118,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="294" FontSize="16"/>
+            <TextBox x:Name="txtEmployeeId" HorizontalAlignment="Left" Height="28" Margin="205,151,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="294" FontSize="16"/>
+            <TextBox x:Name="txtProductId" HorizontalAlignment="Left" Height="28" Margin="205,217,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="294" FontSize="16"/>
+            <TextBox x:Name="txtPrice" HorizontalAlignment="Left" Height="28" Margin="205,250,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="294" FontSize="16"/>
+            <TextBox x:Name="txtQuantity" HorizontalAlignment="Left" Height="28" Margin="205,283,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="294" FontSize="16"/>
+            <TextBox x:Name="txtDiscount" HorizontalAlignment="Left" Height="28" Margin="205,316,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="294" FontSize="16"/>
+            <DatePicker x:Name="dtpDate" HorizontalAlignment="Left" Height="28" Margin="205,184,0,0" VerticalAlignment="Top" Width="294" FirstDayOfWeek="Monday" IsTodayHighlighted="True" SelectedDateFormat="Short" Text="a"/>
+            <Button x:Name="txtSave" Content="Save" HorizontalAlignment="Left" Height="66" Margin="580,80,0,0" VerticalAlignment="Top" Width="139" FontSize="24" Click="txtSave_Click" Background="#FF0069FF" Foreground="#FFFEFEFE" FontWeight="Bold"/>
+            <Button x:Name="txtExit" Content="Exit" HorizontalAlignment="Left" Height="66" Margin="580,0,0,0" VerticalAlignment="Center" Width="139" FontSize="24" Click="txtExit_Click" Foreground="#FFFEFAFA" FontWeight="Bold" Background="#FFFF3D3D"/>
+
+        </Grid>
+    </Viewbox>
+</Window>

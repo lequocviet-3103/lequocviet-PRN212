@@ -11,5 +11,8 @@ namespace Repositories_EF
     {
         public List<Product> GetProsucts();
         public List<Product> GetProductsByCategory(int cate);
+        public bool SaveProduct(Product product);
+        public bool UpdateProduct(Product product);
+        public bool DeleteProduct(int productId);
     }
 }

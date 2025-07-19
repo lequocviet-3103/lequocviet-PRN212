@@ -1,0 +1,30 @@
+﻿<Window x:Class="LeQuocVietWPF.ReportsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LeQuocVietWPF"
+        mc:Ignorable="d"
+        Title="ReportsWindow" Height="450" Width="800" Loaded="Window_Loaded">
+    <Viewbox Stretch="Fill">
+        <Grid Background="Aqua" Width="800" Height="450">
+            <DatePicker x:Name="txtStart" HorizontalAlignment="Left" Height="29" Margin="169,22,0,0" VerticalAlignment="Top" Width="140" FontSize="14"/>
+            <DatePicker x:Name="txtEnd" HorizontalAlignment="Left" Height="29" Margin="457,22,0,0" VerticalAlignment="Top" Width="140" FontSize="14"/>
+            <Button x:Name="txtSearch" Content="Search" HorizontalAlignment="Left" Height="41" Margin="621,62,0,0" VerticalAlignment="Top" Width="120" FontSize="20" Click="txtSearch_Click" Background="White" FontWeight="Bold"/>
+            <Button x:Name="txtExit" Content="Exit" HorizontalAlignment="Left" Height="41" Margin="621,125,0,0" VerticalAlignment="Top" Width="120" FontSize="20" Click="txtExit_Click" FontWeight="Bold" Background="#FFFF5252" Foreground="White"/>
+            <ListView x:Name="lvReports" Margin="39,62,203,13">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Order ID" DisplayMemberBinding="{Binding OrderID}" />
+                        <GridViewColumn Header="Customer" DisplayMemberBinding="{Binding CustomerName}" />
+                        <GridViewColumn Header="Employee" DisplayMemberBinding="{Binding EmployeeName}" />
+                        <GridViewColumn Header="Order Date" DisplayMemberBinding="{Binding OrderDate}" />
+                        <GridViewColumn Header="Total ($)" DisplayMemberBinding="{Binding TotalAmount}" />
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <Label Content="Start Date" HorizontalAlignment="Left" Height="29" Margin="39,22,0,0" VerticalAlignment="Top" Width="93" FontSize="16" FontWeight="Bold"/>
+            <Label Content="End Date" HorizontalAlignment="Left" Height="29" Margin="345,22,0,0" VerticalAlignment="Top" Width="93" FontWeight="Bold" FontSize="16"/>
+        </Grid>
+    </Viewbox>
+</Window>

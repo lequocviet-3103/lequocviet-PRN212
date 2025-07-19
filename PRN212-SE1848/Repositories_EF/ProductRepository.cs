@@ -20,5 +20,20 @@ namespace Repositories_EF
         {
             return productDAO.GetProsucts();
         }
+
+        public bool SaveProduct(Product product)
+        {
+            return productDAO.SaveProduct(product);
+        }
+
+        public bool UpdateProduct(Product product)
+        {
+            return productDAO.UpdateProduct(product);
+        }
+
+        public bool DeleteProduct(int productId)
+        {
+            return productDAO.DeleteProduct(productId);
+        }
     }
 }

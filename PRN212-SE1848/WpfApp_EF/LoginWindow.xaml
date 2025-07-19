@@ -5,33 +5,44 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp_EF"
         mc:Ignorable="d"
-        Title="Đăng nhập hệ thống" Height="450" Width="800">
+        Title="Đăng nhập hệ thống" Height="470" Width="833">
     <Grid>
-        <Label Content="Đăng nhập hệ thống" HorizontalAlignment="Center" Margin="0,38,0,0" VerticalAlignment="Top" Width="310"/>
-        <Label Content="Email Address" HorizontalAlignment="Left" Margin="97,122,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Width="178">
+        <Label Content="Đăng nhập hệ thống" HorizontalAlignment="Center" Margin="0,38,0,0" VerticalAlignment="Top" Width="314" Height="43" Background="Red" FontSize="22" RenderTransformOrigin="0.5,0.5">
             <Label.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
                     <SkewTransform/>
-                    <RotateTransform Angle="1.058"/>
+                    <RotateTransform Angle="0.225"/>
                     <TranslateTransform/>
                 </TransformGroup>
             </Label.RenderTransform>
         </Label>
-        <Label Content="Password" HorizontalAlignment="Left" Margin="101,172,0,0" VerticalAlignment="Top" Width="99"/>
-        <TextBox x:Name="txtEmail" HorizontalAlignment="Left" Margin="306,138,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="362"/>
-        <PasswordBox x:Name="txtPassword" HorizontalAlignment="Left" Margin="306,190,0,0" VerticalAlignment="Top" Width="362" RenderTransformOrigin="0.5,0.5">
-            <PasswordBox.RenderTransform>
+        <Label Content="Email Address" HorizontalAlignment="Left" Margin="155,144,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Width="92" Height="33">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0.447"/>
+                    <RotateTransform Angle="0.858"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label Content="Password" Margin="155,206,587,224"/>
+        <TextBox x:Name="txtEmail" Margin="305,138,129,274" TextWrapping="Wrap" Text="admin@CompanyName.com"/>
+        <PasswordBox x:Name="txtPassword" Margin="305,206,131,205" RenderTransformOrigin="0.5,0.5" Password="@1">
+
+        </PasswordBox>
+        <Button x:Name="btnDangNhap" Content="Đăng nhập" HorizontalAlignment="Left" Margin="187,286,0,0" VerticalAlignment="Top" Click="btnDangNhap_Click" Height="57" Width="166"/>
+        <Button x:Name="btnThoat" Content="Thoát" HorizontalAlignment="Left" Margin="400,286,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Height="57" Width="151">
+            <Button.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
                     <SkewTransform/>
-                    <RotateTransform Angle="0.007"/>
+                    <RotateTransform Angle="-0.087"/>
                     <TranslateTransform/>
                 </TransformGroup>
-            </PasswordBox.RenderTransform>
-        </PasswordBox>
-        <Button x:Name="btnDangNhap" Content="Đăng nhập" HorizontalAlignment="Left" Margin="180,288,0,0" VerticalAlignment="Top" Click="btnDangNhap_Click"/>
-        <Button x:Name="btnThoat" Content="Thoát" HorizontalAlignment="Left" Margin="400,298,0,0" VerticalAlignment="Top"/>
+            </Button.RenderTransform>
+        </Button>
 
     </Grid>
 </Window>

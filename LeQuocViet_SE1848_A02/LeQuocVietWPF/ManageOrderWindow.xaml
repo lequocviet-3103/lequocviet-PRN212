@@ -1,0 +1,39 @@
+﻿<Window x:Class="LeQuocVietWPF.ManageOrderWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LeQuocVietWPF"
+        mc:Ignorable="d"
+        Title="ManageOrderWindow"  Loaded="Window_Loaded">
+    <Viewbox Stretch="Fill">
+        <Grid Background="Aqua" Height="460" Width="825">
+            <TextBox x:Name="txtSearchCus" HorizontalAlignment="Left" Height="34" Margin="27,43,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="260" FontSize="20"/>
+            <Button x:Name="btnSearch" Content="Search" HorizontalAlignment="Left" Height="34" Margin="677,43,0,0" VerticalAlignment="Top" Width="110" FontSize="20" Click="btnSearch_Click" Background="White" FontWeight="Bold"/>
+            <ListView x:Name="lvOrder" HorizontalAlignment="Left" Height="320" Margin="27,93,0,0" VerticalAlignment="Top" Width="635" d:ItemsSource="{d:SampleData ItemCount=5}" FontSize="14">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Order ID" DisplayMemberBinding="{Binding OrderId}"/>
+                        <GridViewColumn Header="Customer ID" DisplayMemberBinding="{Binding CustomerId}"/>
+                        <GridViewColumn Header="Customer Name" DisplayMemberBinding="{Binding CustomerName}"/>
+                        <GridViewColumn Header="Employee ID" DisplayMemberBinding="{Binding EmployeeId}"/>
+                        <GridViewColumn Header="Employee Name" DisplayMemberBinding="{Binding EmployeeName}"/>
+
+                        <GridViewColumn Header="Order Date" DisplayMemberBinding="{Binding OrderDate}"/>
+                        <GridViewColumn Header="Product ID" DisplayMemberBinding="{Binding ProductId}"/>
+                        <GridViewColumn Header="Product Name" DisplayMemberBinding="{Binding ProductName}"/>
+                        <GridViewColumn Header="UnitPrice" DisplayMemberBinding="{Binding UnitPrice}"/>
+                        <GridViewColumn Header="Quantity" DisplayMemberBinding="{Binding Quantity}"/>
+                        <GridViewColumn Header="Discount" DisplayMemberBinding="{Binding Discount}"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <Button x:Name="btnAdd" Content="Add" HorizontalAlignment="Left" Height="34" Margin="677,95,0,0" VerticalAlignment="Top" Width="110" FontSize="20" Click="btnAdd_Click" Background="White" FontWeight="Bold"/>
+            <Button x:Name="txtExit" Content="Exit" HorizontalAlignment="Left" Height="34" Margin="677,153,0,0" VerticalAlignment="Top" Width="110" FontSize="20" Click="txtExit_Click" Background="#FFFF5454" Foreground="White" FontWeight="Bold"/>
+            <TextBox x:Name="txtSearchPro" HorizontalAlignment="Left" Height="34" Margin="402,43,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="260" FontSize="20"/>
+            <Label Content="Search Customer Name" HorizontalAlignment="Left" Height="28" Margin="27,10,0,0" VerticalAlignment="Top" Width="186" FontSize="16"/>
+            <Label Content="Search Product Name" HorizontalAlignment="Left" Height="28" Margin="402,10,0,0" VerticalAlignment="Top" Width="173" FontSize="16" RenderTransformOrigin="0.509,0.304"/>
+
+        </Grid>
+    </Viewbox>
+</Window>

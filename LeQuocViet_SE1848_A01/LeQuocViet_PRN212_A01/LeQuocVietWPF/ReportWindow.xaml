@@ -13,7 +13,7 @@
             <Label Content="From:" VerticalAlignment="Center"/>
             <DatePicker x:Name="dpFrom" SelectedDate="{x:Static sys:DateTime.Now}" Margin="5" Height="48"/>
             <Label Content="To:" VerticalAlignment="Center"/>
-            <DatePicker x:Name="dpTo" SelectedDate="{x:Static sys:DateTime.Now}" Margin="5" Height="49"/>
+            <DatePicker x:Name="dpTo" SelectedDate="{x:Static sys:DateTime.Now}" Margin="5" Height="49" SelectedDateFormat="Short"/>
             <Button Content="Generate Report" Click="btnGenerateReport_Click" Margin="10,0"/>
         </StackPanel>
 

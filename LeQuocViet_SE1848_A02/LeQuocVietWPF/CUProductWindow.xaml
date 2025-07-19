@@ -1,0 +1,52 @@
+﻿<Window x:Class="LeQuocVietWPF.CUProductWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LeQuocVietWPF"
+        mc:Ignorable="d"
+        Title="CUProductWindow" Loaded="Window_Loaded">
+    <Viewbox Stretch="Fill">
+        <Grid Background="Aqua" Width="800" Height="450">
+            <TextBox x:Name="txtProductID" HorizontalAlignment="Left" Height="26" Margin="211,37,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="327" FontSize="16"/>
+            <TextBox x:Name="txtProductName" HorizontalAlignment="Left" Height="26" Margin="211,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="327" FontSize="16"/>
+            <TextBox x:Name="txtSupplierID" HorizontalAlignment="Left" Height="26" Margin="211,113,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="327" FontSize="16"/>
+            <TextBox x:Name="txtQuantity" HorizontalAlignment="Left" Height="26" Margin="211,149,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="327" FontSize="16"/>
+            <TextBox x:Name="txtPrice" HorizontalAlignment="Left" Height="26" Margin="211,190,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="327" FontSize="16"/>
+            <TextBox x:Name="txtStock" HorizontalAlignment="Left" Height="26" Margin="211,230,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="327" FontSize="16"/>
+            <TextBox x:Name="txtUnitOrder" HorizontalAlignment="Left" Height="26" Margin="211,266,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="327" FontSize="16"/>
+            <TextBox x:Name="txtReorder" HorizontalAlignment="Left" Height="26" Margin="211,300,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="327" FontSize="16"/>
+            <TextBox x:Name="txtDiscount" HorizontalAlignment="Left" Height="26" Margin="211,340,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="327" FontSize="16"/>
+            <Label Content="Product ID" HorizontalAlignment="Left" Margin="20,34,0,0" VerticalAlignment="Top" FontSize="16" Background="White" Width="131"/>
+            <Label Content="Product Name" HorizontalAlignment="Left" Margin="20,72,0,0" VerticalAlignment="Top" FontSize="16" Background="White" RenderTransformOrigin="0.5,0.5" Width="130">
+                <Label.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="0.111"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Label.RenderTransform>
+            </Label>
+            <Label Content="Category" HorizontalAlignment="Left" Margin="20,385,0,0" VerticalAlignment="Top" FontSize="16" Background="White" Width="131"/>
+            <Label Content="Discontinued" HorizontalAlignment="Left" Margin="20,335,0,0" VerticalAlignment="Top" FontSize="16" Background="White" Width="131"/>
+            <Label Content="ReorderLevel" HorizontalAlignment="Left" Margin="20,295,0,0" VerticalAlignment="Top" FontSize="16" Background="White" Width="131"/>
+            <Label Content="UnitsOnOrder" HorizontalAlignment="Left" Margin="20,259,0,0" VerticalAlignment="Top" FontSize="16" Background="White" Width="131"/>
+            <Label Content="UnitsInStock" HorizontalAlignment="Left" Margin="20,223,0,0" VerticalAlignment="Top" FontSize="16" Background="White" Width="131"/>
+            <Label Content="UnitPrice" HorizontalAlignment="Left" Margin="20,187,0,0" VerticalAlignment="Top" FontSize="16" Background="White" Width="131"/>
+            <Label Content="QuantityPerUnit" HorizontalAlignment="Left" Margin="20,151,0,0" VerticalAlignment="Top" FontSize="16" Background="White" Width="131"/>
+            <Label Content="SupplierId" HorizontalAlignment="Left" Margin="20,110,0,0" VerticalAlignment="Top" FontSize="16" Background="White" Width="131"/>
+            <ComboBox x:Name="cboCategory" HorizontalAlignment="Left" Height="34" Margin="212,384,0,0" VerticalAlignment="Top" Width="189">
+                <ComboBox.Background>
+                    <LinearGradientBrush EndPoint="0,1">
+                        <GradientStop Color="#FFF0F0F0"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </ComboBox.Background>
+            </ComboBox>
+            <Button x:Name="txtSave" Content="Save" HorizontalAlignment="Left" Height="72" Margin="609,38,0,0" VerticalAlignment="Top" Width="127" FontSize="24" Click="txtSave_Click" Foreground="#FFFFFDFD" FontWeight="Bold" Background="#FF0069FF"/>
+            <Button x:Name="txtExit" Content="Exit" HorizontalAlignment="Left" Height="72" Margin="609,149,0,0" VerticalAlignment="Top" Width="127" FontSize="24" Click="txtExit_Click" Background="#FFFF5555" Foreground="#FFFFFCFC" FontWeight="Bold"/>
+
+        </Grid>
+    </Viewbox>
+</Window>

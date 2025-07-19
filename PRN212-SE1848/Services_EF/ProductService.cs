@@ -25,5 +25,20 @@ namespace Services_EF
         {
             return productRepository.GetProsucts();
         }
+
+        public bool SaveProduct(Product product)
+        {
+            return productRepository.SaveProduct(product);
+        }
+
+        public bool UpdateProduct(Product product)
+        {
+            return productRepository.UpdateProduct(product);
+        }
+
+        public bool DeleteProduct(int productId)
+        {
+            return productRepository.DeleteProduct(productId);
+        }
     }
 }

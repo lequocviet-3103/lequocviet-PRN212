@@ -27,11 +27,15 @@ namespace WpfApp_EF
         public AdminWindow()
         {
             InitializeComponent();
+            is_load_product_completed = false;
             LoadCategoryAndProductIntoTreeview();
+            is_load_product_completed = true;
         }
 
+        bool is_load_product_completed = false;
         private void LoadCategoryAndProductIntoTreeview()
         {
+
             tvCategory.Items.Clear();
             //tạo nút gốc
             TreeViewItem root = new TreeViewItem();
@@ -62,27 +66,169 @@ namespace WpfApp_EF
 
         private void btnClear_Click(object sender, RoutedEventArgs e)
         {
-
+            txtId.Clear();
+            txtName.Clear();
+            txtQuantity.Clear();
+            txtPrice.Clear();
+            txtId.Focus();
         }
 
         private void btnSave_Click(object sender, RoutedEventArgs e)
         {
-
+            //chọn danh mục tree view item 
+            TreeViewItem cate_node = tvCategory.SelectedItem as TreeViewItem;
+            if (cate_node == null)
+            {
+                MessageBox.Show("chưa chọn danh mục lưu sản phẩm", "Lỗi lưu sản phẩm", MessageBoxButton.OK, MessageBoxImage.Error);
+                return;
+            }
+            Category selectedCaregory = cate_node.Tag as Category;
+            if (selectedCaregory == null)
+            {
+                MessageBox.Show("chưa chọn danh mục lưu sản phẩm", "Lỗi lưu sản phẩm", MessageBoxButton.OK, MessageBoxImage.Error);
+                return;
+            }
+            //tạo sản phẩm mới
+            Product product = new();
+            product.ProductName = txtName.Text;
+            product.UnitPrice = decimal.Parse(txtPrice.Text);
+            product.UnitsInStock = short.Parse(txtQuantity.Text);
+            product.CategoryId = selectedCaregory.CategoryId;
+            bool ret = productService.SaveProduct(product);
+            if (ret)
+            {//lưu thành công => nạp lại cây cho cate_node + products cho listview
+                //nạp lại cate_node
+                cate_node.Items.Clear();
+                //nạp sản phẩm theo danh mục
+                List<Product> products = productService.GetProductsByCategory(selectedCaregory.CategoryId);
+                selectedCaregory.Products = products;
+                foreach (Product product_update in selectedCaregory.Products)
+                {
+                    TreeViewItem products_node = new TreeViewItem();
+                    products_node.Header = product_update.ProductName;
+                    products_node.Tag = product_update;
+                    cate_node.Items.Add(products_node);
+                }
+                //nạp lại list view 
+                is_load_product_completed = false;
+                lvProduct.ItemsSource = null;
+                lvProduct.ItemsSource = products;
+                is_load_product_completed = true;
+            }
         }
 
         private void btnUpdate_Click(object sender, RoutedEventArgs e)
         {
+            try
+            {
+                // chọn danh mục tree view item
+                TreeViewItem cate_node = tvCategory.SelectedItem as TreeViewItem;
+                if (cate_node == null)
+                {
+                    MessageBox.Show("chưa chọn danh mục lưu sản phẩm", "Lỗi lưu sản phẩm", MessageBoxButton.OK, MessageBoxImage.Error);
+                    return;
+                }
+                Category selectedCaregory = cate_node.Tag as Category;
+                if (selectedCaregory == null)
+                {
+                    MessageBox.Show("chưa chọn danh mục lưu sản phẩm", "Lỗi lưu sản phẩm", MessageBoxButton.OK, MessageBoxImage.Error);
+                    return;
+                }
+                //tạo sản phẩm mới
+                Product product = new();
+                product.ProductId = int.Parse(txtId.Text);
+                product.ProductName = txtName.Text;
+                product.UnitPrice = decimal.Parse(txtPrice.Text);
+                product.UnitsInStock = short.Parse(txtQuantity.Text);
+                product.CategoryId = selectedCaregory.CategoryId;
+                bool ret = productService.UpdateProduct(product);
+                if (ret) {
+                    //cập nhật thành công -> nạp lại giao diện
+                    cate_node.Items.Clear();
+                    //nạp sản phẩm theo danh mục
+                    List<Product> products = productService.GetProductsByCategory(selectedCaregory.CategoryId);
+                    selectedCaregory.Products = products;
+                    foreach (Product product_update in selectedCaregory.Products)
+                    {
+                        TreeViewItem products_node = new TreeViewItem();
+                        products_node.Header = product_update.ProductName;
+                        products_node.Tag = product_update;
+                        cate_node.Items.Add(products_node);
+                    }
+                    //nạp lại list view 
+                    is_load_product_completed = false;
+                    lvProduct.ItemsSource = null;
+                    lvProduct.ItemsSource = products;
+                    is_load_product_completed = true;
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("lỗi cập nhật sản phẩm: " + ex.Message,
+                    "lỗi cập nhật sản phẩm", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
 
         }
 
         private void btnDelete_Click(object sender, RoutedEventArgs e)
         {
-
+            try
+            {
+                TreeViewItem cate_node = tvCategory.SelectedItem as TreeViewItem;
+                if (cate_node == null)
+                {
+                    MessageBox.Show("chưa chọn danh mục xóa sản phẩm", "Lỗi xóa sản phẩm", MessageBoxButton.OK, MessageBoxImage.Error);
+                    return;
+                }
+                Category selectedCaregory = cate_node.Tag as Category;
+                if (selectedCaregory == null)
+                {
+                    MessageBox.Show("chưa chọn danh mục xóa sản phẩm", "Lỗi xóa sản phẩm", MessageBoxButton.OK, MessageBoxImage.Error);
+                    return;
+                }
+                MessageBoxResult result = MessageBox.Show("Bạn có chắc chắn muốn xóa sản phẩm này không?", "Xác nhận xóa", MessageBoxButton.YesNo, MessageBoxImage.Question);
+                if (result == MessageBoxResult.No) return;
+                //xóa thì phải luôn luôn hỏi có muốn xóa không
+                int productId = int.Parse(txtId.Text);
+                bool ret = productService.DeleteProduct(productId);
+                if (ret)
+                {
+                    //xóa dữ liệu trên các ô chi thiết
+                    btnClear.RaiseEvent(e);
+                    
+                    //sau đó nạp lại cây list view
+                    cate_node.Items.Clear(); // Clear existing items first to avoid duplicates
+                    
+                    //nạp lại danh sách sản phẩm theo danh mục
+                    List<Product> products = productService.GetProductsByCategory(selectedCaregory.CategoryId);
+                    selectedCaregory.Products = products;
+                    
+                    foreach (Product product_update in selectedCaregory.Products)
+                    {
+                        TreeViewItem products_node = new TreeViewItem();
+                        products_node.Header = product_update.ProductName;
+                        products_node.Tag = product_update;
+                        cate_node.Items.Add(products_node);
+                    }
+                    
+                    //nạp lại list view 
+                    is_load_product_completed = false;
+                    lvProduct.ItemsSource = null;
+                    lvProduct.ItemsSource = products;
+                    is_load_product_completed = true;
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("lỗi xóa sản phẩm: " + ex.Message,
+                    "lỗi xóa sản phẩm", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
         }
 
         private void tvCategory_SelectedItemChanged(object sender, RoutedPropertyChangedEventArgs<object> e)
         {
-            if(e.NewValue == null)
+            is_load_product_completed = false;
+            if (e.NewValue == null)
             {
                 return;
             }
@@ -107,13 +253,26 @@ namespace WpfApp_EF
             //nạp lên list view
             lvProduct.ItemsSource = null;
             lvProduct.ItemsSource = products;
-
+            is_load_product_completed = true;
         }
 
 
         private void lvProduct_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
+            if (is_load_product_completed == false) return;
+            if (e.AddedItems.Count <= 0) return;
+            Product p = e.AddedItems[0] as Product;
+            txtId.Text = p.ProductId.ToString();
+            txtName.Text = p.ProductName;
+            txtQuantity.Text = p.UnitsInStock.ToString();
+            txtPrice.Text = p.UnitPrice.ToString();
 
+        }
+
+        private void menusystem_changepassword_Click(object sender, RoutedEventArgs e)
+        {
+            ResetPasswordWindow resetPassword = new ResetPasswordWindow();
+            resetPassword.ShowDialog();
         }
     }
 }

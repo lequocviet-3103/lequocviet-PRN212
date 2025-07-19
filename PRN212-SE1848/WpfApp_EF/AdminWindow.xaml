@@ -7,7 +7,22 @@
         mc:Ignorable="d"
         Title="AdminWindow" Height="605" Width="1073">
     <DockPanel>
-        <StackPanel DockPanel.Dock="Top" Background="Yellow" Height="50">
+
+        <Menu x:Name="mainMenu" DockPanel.Dock="Top">
+            <MenuItem Name="menusytem" Header="Hệ thống">
+
+                <MenuItem Name="menusystem_changepassword" Header="Đổi mật khẩu" Click="menusystem_changepassword_Click">
+                    
+                </MenuItem>
+            <MenuItem Name="menusystem_showProfile" Header="Thông tin tài khoản"></MenuItem>
+            <Separator>
+                
+            </Separator>
+            <MenuItem Name="menusystem_exit" Header="Thoát phần mềm"></MenuItem>
+            </MenuItem>
+         </Menu>
+
+            <StackPanel DockPanel.Dock="Top" Background="Yellow" Height="50">
             <Label Content="Quản trị MyStore" FontSize="30"/>
         </StackPanel>
         <StackPanel DockPanel.Dock="Bottom" Background="Magenta" Height="30">

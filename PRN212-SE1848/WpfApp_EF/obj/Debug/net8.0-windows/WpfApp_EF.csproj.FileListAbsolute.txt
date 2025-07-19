@@ -76,3 +76,5 @@ D:\PRN212\PRN212-SE1848\WpfApp_EF\obj\Debug\net8.0-windows\refint\WpfApp_EF.dll
 D:\PRN212\PRN212-SE1848\WpfApp_EF\obj\Debug\net8.0-windows\WpfApp_EF.pdb
 D:\PRN212\PRN212-SE1848\WpfApp_EF\obj\Debug\net8.0-windows\WpfApp_EF.genruntimeconfig.cache
 D:\PRN212\PRN212-SE1848\WpfApp_EF\obj\Debug\net8.0-windows\ref\WpfApp_EF.dll
+D:\PRN212\PRN212-SE1848\WpfApp_EF\obj\Debug\net8.0-windows\ResetPasswordWindow.g.cs
+D:\PRN212\PRN212-SE1848\WpfApp_EF\obj\Debug\net8.0-windows\ResetPasswordWindow.baml

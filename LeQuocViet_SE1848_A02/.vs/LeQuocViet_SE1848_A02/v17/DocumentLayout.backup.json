@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN212\\LeQuocViet_SE1848_A02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A50DAD9C-1124-4D61-8FA3-A58CE2B43961}|DataAccessLayer\\DataAccessLayer.csproj|d:\\prn212\\lequocviet_se1848_a02\\dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50DAD9C-1124-4D61-8FA3-A58CE2B43961}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50DAD9C-1124-4D61-8FA3-A58CE2B43961}|DataAccessLayer\\DataAccessLayer.csproj|d:\\prn212\\lequocviet_se1848_a02\\dataaccesslayer\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50DAD9C-1124-4D61-8FA3-A58CE2B43961}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B14024-0B07-4F28-ABE4-0D67C3DDED0C}|LeQuocVietWPF\\LeQuocVietWPF.csproj|d:\\prn212\\lequocviet_se1848_a02\\lequocvietwpf\\manageorderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32B14024-0B07-4F28-ABE4-0D67C3DDED0C}|LeQuocVietWPF\\LeQuocVietWPF.csproj|solutionrelative:lequocvietwpf\\manageorderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50DAD9C-1124-4D61-8FA3-A58CE2B43961}|DataAccessLayer\\DataAccessLayer.csproj|d:\\prn212\\lequocviet_se1848_a02\\dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50DAD9C-1124-4D61-8FA3-A58CE2B43961}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B14024-0B07-4F28-ABE4-0D67C3DDED0C}|LeQuocVietWPF\\LeQuocVietWPF.csproj|d:\\prn212\\lequocviet_se1848_a02\\lequocvietwpf\\manageproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B14024-0B07-4F28-ABE4-0D67C3DDED0C}|LeQuocVietWPF\\LeQuocVietWPF.csproj|solutionrelative:lequocvietwpf\\manageproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED1ABD9-45C3-476D-94B2-82CED06BEFB8}|BusinessObjects\\BusinessObjects.csproj|d:\\prn212\\lequocviet_se1848_a02\\businessobjects\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED1ABD9-45C3-476D-94B2-82CED06BEFB8}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4E2A6C-B4F5-443D-AAB2-7493ABEDF979}|Services\\Services.csproj|d:\\prn212\\lequocviet_se1848_a02\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4E2A6C-B4F5-443D-AAB2-7493ABEDF979}|Services\\Services.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4E2A6C-B4F5-443D-AAB2-7493ABEDF979}|Services\\Services.csproj|d:\\prn212\\lequocviet_se1848_a02\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4E2A6C-B4F5-443D-AAB2-7493ABEDF979}|Services\\Services.csproj|solutionrelative:services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA5E506-81C2-4AAE-93D0-71E91DF713B5}|Repositories\\Repositories.csproj|d:\\prn212\\lequocviet_se1848_a02\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AA5E506-81C2-4AAE-93D0-71E91DF713B5}|Repositories\\Repositories.csproj|solutionrelative:repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA5E506-81C2-4AAE-93D0-71E91DF713B5}|Repositories\\Repositories.csproj|d:\\prn212\\lequocviet_se1848_a02\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AA5E506-81C2-4AAE-93D0-71E91DF713B5}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B14024-0B07-4F28-ABE4-0D67C3DDED0C}|LeQuocVietWPF\\LeQuocVietWPF.csproj|d:\\prn212\\lequocviet_se1848_a02\\lequocvietwpf\\manageproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32B14024-0B07-4F28-ABE4-0D67C3DDED0C}|LeQuocVietWPF\\LeQuocVietWPF.csproj|solutionrelative:lequocvietwpf\\manageproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B14024-0B07-4F28-ABE4-0D67C3DDED0C}|LeQuocVietWPF\\LeQuocVietWPF.csproj|d:\\prn212\\lequocviet_se1848_a02\\lequocvietwpf\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B14024-0B07-4F28-ABE4-0D67C3DDED0C}|LeQuocVietWPF\\LeQuocVietWPF.csproj|solutionrelative:lequocvietwpf\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B14024-0B07-4F28-ABE4-0D67C3DDED0C}|LeQuocVietWPF\\LeQuocVietWPF.csproj|d:\\prn212\\lequocviet_se1848_a02\\lequocvietwpf\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32B14024-0B07-4F28-ABE4-0D67C3DDED0C}|LeQuocVietWPF\\LeQuocVietWPF.csproj|solutionrelative:lequocvietwpf\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B14024-0B07-4F28-ABE4-0D67C3DDED0C}|LeQuocVietWPF\\LeQuocVietWPF.csproj|d:\\prn212\\lequocviet_se1848_a02\\lequocvietwpf\\personalprofilecustomerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32B14024-0B07-4F28-ABE4-0D67C3DDED0C}|LeQuocVietWPF\\LeQuocVietWPF.csproj|solutionrelative:lequocvietwpf\\personalprofilecustomerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B14024-0B07-4F28-ABE4-0D67C3DDED0C}|LeQuocVietWPF\\LeQuocVietWPF.csproj|d:\\prn212\\lequocviet_se1848_a02\\lequocvietwpf\\cuorderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32B14024-0B07-4F28-ABE4-0D67C3DDED0C}|LeQuocVietWPF\\LeQuocVietWPF.csproj|solutionrelative:lequocvietwpf\\cuorderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B14024-0B07-4F28-ABE4-0D67C3DDED0C}|LeQuocVietWPF\\LeQuocVietWPF.csproj|d:\\prn212\\lequocviet_se1848_a02\\lequocvietwpf\\reportswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32B14024-0B07-4F28-ABE4-0D67C3DDED0C}|LeQuocVietWPF\\LeQuocVietWPF.csproj|solutionrelative:lequocvietwpf\\reportswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B14024-0B07-4F28-ABE4-0D67C3DDED0C}|LeQuocVietWPF\\LeQuocVietWPF.csproj|d:\\prn212\\lequocviet_se1848_a02\\lequocvietwpf\\personalprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32B14024-0B07-4F28-ABE4-0D67C3DDED0C}|LeQuocVietWPF\\LeQuocVietWPF.csproj|solutionrelative:lequocvietwpf\\personalprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B14024-0B07-4F28-ABE4-0D67C3DDED0C}|LeQuocVietWPF\\LeQuocVietWPF.csproj|d:\\prn212\\lequocviet_se1848_a02\\lequocvietwpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32B14024-0B07-4F28-ABE4-0D67C3DDED0C}|LeQuocVietWPF\\LeQuocVietWPF.csproj|solutionrelative:lequocvietwpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B14024-0B07-4F28-ABE4-0D67C3DDED0C}|LeQuocVietWPF\\LeQuocVietWPF.csproj|d:\\prn212\\lequocviet_se1848_a02\\lequocvietwpf\\managecustomerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32B14024-0B07-4F28-ABE4-0D67C3DDED0C}|LeQuocVietWPF\\LeQuocVietWPF.csproj|solutionrelative:lequocvietwpf\\managecustomerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B14024-0B07-4F28-ABE4-0D67C3DDED0C}|LeQuocVietWPF\\LeQuocVietWPF.csproj|d:\\prn212\\lequocviet_se1848_a02\\lequocvietwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32B14024-0B07-4F28-ABE4-0D67C3DDED0C}|LeQuocVietWPF\\LeQuocVietWPF.csproj|solutionrelative:lequocvietwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B14024-0B07-4F28-ABE4-0D67C3DDED0C}|LeQuocVietWPF\\LeQuocVietWPF.csproj|d:\\prn212\\lequocviet_se1848_a02\\lequocvietwpf\\cuproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32B14024-0B07-4F28-ABE4-0D67C3DDED0C}|LeQuocVietWPF\\LeQuocVietWPF.csproj|solutionrelative:lequocvietwpf\\cuproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B14024-0B07-4F28-ABE4-0D67C3DDED0C}|LeQuocVietWPF\\LeQuocVietWPF.csproj|d:\\prn212\\lequocviet_se1848_a02\\lequocvietwpf\\cucustomerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32B14024-0B07-4F28-ABE4-0D67C3DDED0C}|LeQuocVietWPF\\LeQuocVietWPF.csproj|solutionrelative:lequocvietwpf\\cucustomerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDAO.cs",
+              "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A02\\DataAccessLayer\\OrderDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\OrderDAO.cs",
+              "ToolTip": "D:\\PRN212\\LeQuocViet_SE1848_A02\\DataAccessLayer\\OrderDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\OrderDAO.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAUwHEAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T05:34:55.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerDAO.cs",
+              "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A02\\DataAccessLayer\\CustomerDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CustomerDAO.cs",
+              "ToolTip": "D:\\PRN212\\LeQuocViet_SE1848_A02\\DataAccessLayer\\CustomerDAO.cs*",
+              "RelativeToolTip": "DataAccessLayer\\CustomerDAO.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAnwA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T17:39:16.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A02\\DataAccessLayer\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\ProductDAO.cs",
+              "ToolTip": "D:\\PRN212\\LeQuocViet_SE1848_A02\\DataAccessLayer\\ProductDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\ProductDAO.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T17:23:57.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A02\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IOrderRepository.cs",
+              "ToolTip": "D:\\PRN212\\LeQuocViet_SE1848_A02\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "Repositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wBwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T10:20:57.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A02\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\OrderRepository.cs",
+              "ToolTip": "D:\\PRN212\\LeQuocViet_SE1848_A02\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T10:21:02.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A02\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Services\\IOrderService.cs",
+              "ToolTip": "D:\\PRN212\\LeQuocViet_SE1848_A02\\Services\\IOrderService.cs",
+              "RelativeToolTip": "Services\\IOrderService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAvwBsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T10:17:38.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageOrderWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A02\\LeQuocVietWPF\\ManageOrderWindow.xaml",
+              "RelativeDocumentMoniker": "LeQuocVietWPF\\ManageOrderWindow.xaml",
+              "ToolTip": "D:\\PRN212\\LeQuocViet_SE1848_A02\\LeQuocVietWPF\\ManageOrderWindow.xaml",
+              "RelativeToolTip": "LeQuocVietWPF\\ManageOrderWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-17T09:24:25.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageProductWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A02\\LeQuocVietWPF\\ManageProductWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LeQuocVietWPF\\ManageProductWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212\\LeQuocViet_SE1848_A02\\LeQuocVietWPF\\ManageProductWindow.xaml.cs",
+              "RelativeToolTip": "LeQuocVietWPF\\ManageProductWindow.xaml.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAowEkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T17:25:20.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A02\\BusinessObjects\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\OrderDetail.cs",
+              "ToolTip": "D:\\PRN212\\LeQuocViet_SE1848_A02\\BusinessObjects\\OrderDetail.cs",
+              "RelativeToolTip": "BusinessObjects\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T17:35:23.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A02\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "D:\\PRN212\\LeQuocViet_SE1848_A02\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T10:21:16.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PersonalProfileCustomerWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A02\\LeQuocVietWPF\\PersonalProfileCustomerWindow.xaml",
+              "RelativeDocumentMoniker": "LeQuocVietWPF\\PersonalProfileCustomerWindow.xaml",
+              "ToolTip": "D:\\PRN212\\LeQuocViet_SE1848_A02\\LeQuocVietWPF\\PersonalProfileCustomerWindow.xaml",
+              "RelativeToolTip": "LeQuocVietWPF\\PersonalProfileCustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-17T09:28:11.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A02\\LeQuocVietWPF\\CustomerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LeQuocVietWPF\\CustomerWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212\\LeQuocViet_SE1848_A02\\LeQuocVietWPF\\CustomerWindow.xaml.cs",
+              "RelativeToolTip": "LeQuocVietWPF\\CustomerWindow.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAMwCcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T10:16:23.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManageProductWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A02\\LeQuocVietWPF\\ManageProductWindow.xaml",
+              "RelativeDocumentMoniker": "LeQuocVietWPF\\ManageProductWindow.xaml",
+              "ToolTip": "D:\\PRN212\\LeQuocViet_SE1848_A02\\LeQuocVietWPF\\ManageProductWindow.xaml",
+              "RelativeToolTip": "LeQuocVietWPF\\ManageProductWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-17T09:25:44.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReportsWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A02\\LeQuocVietWPF\\ReportsWindow.xaml",
+              "RelativeDocumentMoniker": "LeQuocVietWPF\\ReportsWindow.xaml",
+              "ToolTip": "D:\\PRN212\\LeQuocViet_SE1848_A02\\LeQuocVietWPF\\ReportsWindow.xaml",
+              "RelativeToolTip": "LeQuocVietWPF\\ReportsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-17T09:30:18.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CUOrderWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A02\\LeQuocVietWPF\\CUOrderWindow.xaml",
+              "RelativeDocumentMoniker": "LeQuocVietWPF\\CUOrderWindow.xaml",
+              "ToolTip": "D:\\PRN212\\LeQuocViet_SE1848_A02\\LeQuocVietWPF\\CUOrderWindow.xaml",
+              "RelativeToolTip": "LeQuocVietWPF\\CUOrderWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-17T09:10:44.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A02\\LeQuocVietWPF\\CustomerWindow.xaml",
+              "RelativeDocumentMoniker": "LeQuocVietWPF\\CustomerWindow.xaml",
+              "ToolTip": "D:\\PRN212\\LeQuocViet_SE1848_A02\\LeQuocVietWPF\\CustomerWindow.xaml",
+              "RelativeToolTip": "LeQuocVietWPF\\CustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-17T09:17:43.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PersonalProfileWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A02\\LeQuocVietWPF\\PersonalProfileWindow.xaml",
+              "RelativeDocumentMoniker": "LeQuocVietWPF\\PersonalProfileWindow.xaml",
+              "ToolTip": "D:\\PRN212\\LeQuocViet_SE1848_A02\\LeQuocVietWPF\\PersonalProfileWindow.xaml",
+              "RelativeToolTip": "LeQuocVietWPF\\PersonalProfileWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-17T09:29:39.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A02\\LeQuocVietWPF\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "LeQuocVietWPF\\LoginWindow.xaml",
+              "ToolTip": "D:\\PRN212\\LeQuocViet_SE1848_A02\\LeQuocVietWPF\\LoginWindow.xaml",
+              "RelativeToolTip": "LeQuocVietWPF\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-17T09:19:33.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ManageCustomerWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A02\\LeQuocVietWPF\\ManageCustomerWindow.xaml",
+              "RelativeDocumentMoniker": "LeQuocVietWPF\\ManageCustomerWindow.xaml",
+              "ToolTip": "D:\\PRN212\\LeQuocViet_SE1848_A02\\LeQuocVietWPF\\ManageCustomerWindow.xaml",
+              "RelativeToolTip": "LeQuocVietWPF\\ManageCustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-17T09:22:26.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A02\\LeQuocVietWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LeQuocVietWPF\\MainWindow.xaml",
+              "ToolTip": "D:\\PRN212\\LeQuocViet_SE1848_A02\\LeQuocVietWPF\\MainWindow.xaml",
+              "RelativeToolTip": "LeQuocVietWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-17T09:20:55.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CUProductWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A02\\LeQuocVietWPF\\CUProductWindow.xaml",
+              "RelativeDocumentMoniker": "LeQuocVietWPF\\CUProductWindow.xaml",
+              "ToolTip": "D:\\PRN212\\LeQuocViet_SE1848_A02\\LeQuocVietWPF\\CUProductWindow.xaml",
+              "RelativeToolTip": "LeQuocVietWPF\\CUProductWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-17T09:12:50.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CUCustomerWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\LeQuocViet_SE1848_A02\\LeQuocVietWPF\\CUCustomerWindow.xaml",
+              "RelativeDocumentMoniker": "LeQuocVietWPF\\CUCustomerWindow.xaml",
+              "ToolTip": "D:\\PRN212\\LeQuocViet_SE1848_A02\\LeQuocVietWPF\\CUCustomerWindow.xaml",
+              "RelativeToolTip": "LeQuocVietWPF\\CUCustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-17T09:04:36.499Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

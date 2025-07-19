@@ -1,0 +1,38 @@
+﻿<Window x:Class="LeQuocVietWPF.ManageProductWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LeQuocVietWPF"
+        mc:Ignorable="d"
+        Title="ManageProductWindow" Height="450" Width="800">
+    <Viewbox Stretch="Fill">
+        <Grid Background="Aqua" Width="800" Height="450">
+            <TextBox x:Name="txtSearch" HorizontalAlignment="Left" Height="27" Margin="247,31,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="399"/>
+            <Button x:Name="btnSearch" Content="Search" HorizontalAlignment="Left" Height="34" Margin="679,24,0,0" VerticalAlignment="Top" Width="94" FontSize="18" Click="btnSearch_Click" Background="#FFFEFEFE" FontWeight="Bold"/>
+            <Button x:Name="txtAdd" Content="Add" HorizontalAlignment="Left" Height="35" Margin="679,78,0,0" VerticalAlignment="Top" Width="94" FontSize="18" Click="txtAdd_Click" Background="White" FontWeight="Bold"/>
+            <Button x:Name="txtUpdate" Content="Update" HorizontalAlignment="Left" Height="31" Margin="679,145,0,0" VerticalAlignment="Top" Width="94" FontSize="18" Click="txtUpdate_Click" Background="White" FontWeight="Bold"/>
+            <Button x:Name="txtDelete" Content="Delete" HorizontalAlignment="Left" Height="33" Margin="679,214,0,0" VerticalAlignment="Top" Width="94" FontSize="18" Click="txtDelete_Click" Background="White" FontWeight="Bold"/>
+            <Button x:Name="txtExit" Content="Exit" HorizontalAlignment="Left" Height="27" Margin="679,284,0,0" VerticalAlignment="Top" Width="94" FontSize="18" Click="txtExit_Click" Background="#FFFF4E4E" FontWeight="Bold" Foreground="White"/>
+            <ListView x:Name="lvProduct" HorizontalAlignment="Left" Height="331" Margin="35,75,0,0" VerticalAlignment="Top" Width="611" d:ItemsSource="{d:SampleData ItemCount=5}" Loaded="lvProduct_Loaded">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Product ID" DisplayMemberBinding="{Binding ProductId}"/>
+                        <GridViewColumn Header="Product Name" DisplayMemberBinding="{Binding ProductName}"/>
+                        <GridViewColumn Header="Supplier Id" DisplayMemberBinding="{Binding SupplierId}"/>
+                        <GridViewColumn Header="Category Id" DisplayMemberBinding="{Binding CategoryId}"/>
+                        <GridViewColumn Header="Quantity Per Unit" DisplayMemberBinding="{Binding QuantityPerUnit}"/>
+                        <GridViewColumn Header="Unit Price" DisplayMemberBinding="{Binding UnitPrice}"/>
+                        <GridViewColumn Header="UnitsInStock" DisplayMemberBinding="{Binding UnitsInStock}"/>
+                        <GridViewColumn Header="UnitsOnOrder" DisplayMemberBinding="{Binding UnitsOnOrder}"/>
+                        <GridViewColumn Header="ReorderLevel" DisplayMemberBinding="{Binding ReorderLevel}"/>
+                        <GridViewColumn Header="Discontinued" DisplayMemberBinding="{Binding Discontinued}"/>
+                        <GridViewColumn Header="CategoryName" DisplayMemberBinding="{Binding Category.CategoryName}"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <Label Content="Search Product Name" HorizontalAlignment="Left" Height="34" Margin="35,24,0,0" VerticalAlignment="Top" Width="207" FontSize="20"/>
+
+        </Grid>
+    </Viewbox>
+</Window>
